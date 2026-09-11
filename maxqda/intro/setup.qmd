@@ -1,0 +1,48 @@
+---
+title: "Setting up MAXQDA and Creating a New Project"
+---
+
+# Use the Illinois license to access MAXQDA
+
+This section demonstrates how to use MAXQDA with the license provided by the University of Illinois Urbana-Champaign for current students, faculty, and staff.
+
+If you're not with the university, you can access MAXQDA by signing up for a free trial or purchasing your own license.
+
+## Downloand and install MAXQDA on your device
+
+If you haven't yet, [download the MAXQDA program](https://www.maxqda.com/download-now) to you Mac or Windows computer. Follow the usual procedures for installing software on your device.
+
+## Set Illinois license information
+
+Open the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (@fig-choose-license) that says Welcome to MAXQDA and then asks you to choose a license option.
+
+Click on the option that says [Connect to your institutions network license]{bg="pink"}.
+
+::: {#fig-choose-license}
+![](/img/maxqda-license-options.png){fig-alt="Welcome to MAXQDA screen with five options for setting a license. Select the third option that says \"Connect to your institutions network license\""}
+:::
+
+## Enter Illinois license information
+
+After you choose to make use of an institutional license, you'll be prompted to enter the license details (@fig-network-license).
+
+1.  In the first box asks for your institution's server address. Enter: `maxqda.webstore.illinois.edu`
+2.  Set the Port to `21990`
+3.  Make sure the radio button for the last box is checked and enter the license name `MAXQDA` (all caps included).
+4.  Click `Connect`
+
+::: {#fig-network-license}
+![](/img/maxqda-network-license.png){fig-alt="MAXQDA network license screen with Illinois license details included. "}
+:::
+
+## Link a MAXQDA account (optional)
+
+In addition to the network license, you may choose to log into the MAXQDA program with a (free) MAXQDA account. This account is not connected to your Illinois license, and you can use any email you prefer.
+
+You only need to connect a license if you want to use the AI-Assist features (which is included in the Illinois license) or any of the other add-on features that can be purchased from MAXQDA, including automated transcription and Team Cloud tools.
+
+To link a MAXQDA account:
+
+1.  Create an account [on the MAXQDA website](https://account.maxqda.com/register).
+2.  Look for the `Sign In` option in the upper right corner of the program.
+3.  Enter your account details.

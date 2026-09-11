@@ -1,0 +1,90 @@
+[
+  {
+    "objectID": "maxqda/intro/setup.html",
+    "href": "maxqda/intro/setup.html",
+    "title": "Setting up MAXQDA and Creating a New Project",
+    "section": "",
+    "text": "This section demonstrates how to use MAXQDA with the license provided by the University of Illinois Urbana-Champaign for current students, faculty, and staff.\nIf you’re not with the university, you can access MAXQDA by signing up for a free trial or purchasing your own license.\n\n\nIf you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (Figure 1) that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institutions network license.\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\nAfter you choose to make use of an institutional license, you’ll be prompted to enter the license details (Figure 2).\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect\n\n\n\n\n\n\n\nFigure 2\n\n\n\n\n\n\nIn addition to the network license, you may choose to log into the MAXQDA program with a (free) MAXQDA account. This account is not connected to your Illinois license, and you can use any email you prefer.\nYou only need to connect a license if you want to use the AI-Assist features (which is included in the Illinois license) or any of the other add-on features that can be purchased from MAXQDA, including automated transcription and Team Cloud tools.\nTo link a MAXQDA account:\n\nCreate an account on the MAXQDA website.\nLook for the Sign In option in the upper right corner of the program.\nEnter your account details.",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Creating a New Project"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/setup.html#downloand-and-install-maxqda-on-your-device",
+    "href": "maxqda/intro/setup.html#downloand-and-install-maxqda-on-your-device",
+    "title": "Setting up MAXQDA and Creating a New Project",
+    "section": "",
+    "text": "If you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Creating a New Project"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/setup.html#set-illinois-license-information",
+    "href": "maxqda/intro/setup.html#set-illinois-license-information",
+    "title": "Setting up MAXQDA and Creating a New Project",
+    "section": "",
+    "text": "Open the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (Figure 1) that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institutions network license.\n\n\n\n\n\n\nFigure 1",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Creating a New Project"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/index.html",
+    "href": "maxqda/intro/index.html",
+    "title": "Workshop: Introduction to MAXQDA",
+    "section": "",
+    "text": "Welcome\nThis workshop is for those new to MAXQDA. It covers:",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/setup.html#enter-illinois-license-information",
+    "href": "maxqda/intro/setup.html#enter-illinois-license-information",
+    "title": "Setting up MAXQDA and Creating a New Project",
+    "section": "",
+    "text": "After you choose to make use of an institutional license, you’ll be prompted to enter the license details (Figure 2).\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect\n\n\n\n\n\n\n\nFigure 2",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Creating a New Project"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/setup.html#link-a-maxqda-account-optional",
+    "href": "maxqda/intro/setup.html#link-a-maxqda-account-optional",
+    "title": "Setting up MAXQDA and Creating a New Project",
+    "section": "",
+    "text": "In addition to the network license, you may choose to log into the MAXQDA program with a (free) MAXQDA account. This account is not connected to your Illinois license, and you can use any email you prefer.\nYou only need to connect a license if you want to use the AI-Assist features (which is included in the Illinois license) or any of the other add-on features that can be purchased from MAXQDA, including automated transcription and Team Cloud tools.\nTo link a MAXQDA account:\n\nCreate an account on the MAXQDA website.\nLook for the Sign In option in the upper right corner of the program.\nEnter your account details.",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Creating a New Project"
+    ]
+  }
+]
