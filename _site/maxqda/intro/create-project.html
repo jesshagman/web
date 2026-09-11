@@ -47,9 +47,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-0719889d6d0530f9257a7404dc80d79d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-98025db97c25363a05e838766a778e20.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-0719889d6d0530f9257a7404dc80d79d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-7c85b7a38cd45cc3f7206ff54bc0de03.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-9abeb08963670da5b12c008145f0f71a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-7c85b7a38cd45cc3f7206ff54bc0de03.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -188,7 +188,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#starting-from-the-opening-screen" id="toc-starting-from-the-opening-screen" class="nav-link active" data-scroll-target="#starting-from-the-opening-screen">Starting from the opening screen</a></li>
+  <li><a href="#start-a-new-project" id="toc-start-a-new-project" class="nav-link active" data-scroll-target="#start-a-new-project">Start a new project</a>
+  <ul class="collapse">
+  <li><a href="#choose-a-project-location" id="toc-choose-a-project-location" class="nav-link" data-scroll-target="#choose-a-project-location">Choose a project location</a>
+  <ul class="collapse">
+  <li><a href="#where-maxqda-stores-your-data" id="toc-where-maxqda-stores-your-data" class="nav-link" data-scroll-target="#where-maxqda-stores-your-data">Where MAXQDA stores your data</a></li>
+  <li><a href="#external-files" id="toc-external-files" class="nav-link" data-scroll-target="#external-files">External files</a></li>
+  </ul></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -214,10 +221,21 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="starting-from-the-opening-screen" class="level1">
-<h1>Starting from the opening screen</h1>
+<section id="start-a-new-project" class="level1">
+<h1>Start a new project</h1>
 <p>When you first open MAXQDA, you’ll be prompted tho choose what project file you want to work with.</p>
-<div id="fig-maxqda-open" class="center quarto-float quarto-figure quarto-figure-center anchored">
+<div class="quarto-layout-panel" data-layout="[ 30, 70 ]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<p>The three options are to:</p>
+<ol type="1">
+<li>Create an entirely new project.</li>
+<li>Open an existing MAXQDA project.</li>
+<li>Create a file that contains example data for exploring MAXQDA features.</li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
+<div id="fig-maxqda-open" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-maxqda-open-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="quarto-figure quarto-figure-center">
@@ -232,14 +250,66 @@ Figure&nbsp;1
 </figcaption>
 </figure>
 </div>
-<p>The three options are to:</p>
+</div>
+</div>
+</div>
+<section id="choose-a-project-location" class="level2">
+<h2 class="anchored" data-anchor-id="choose-a-project-location">Choose a project location</h2>
+<p>After you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.</p>
+<section id="where-maxqda-stores-your-data" class="level3">
+<h3 class="anchored" data-anchor-id="where-maxqda-stores-your-data">Where MAXQDA stores your data</h3>
+<p>You choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.</p>
+<p>You should choose a storage location that meets any data security and confidentiality protections required by the IRB application or project design.</p>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>Saving to external or cloud storage?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>MAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).</p>
+<p>If your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.</p>
+</div>
+</div>
+</section>
+<section id="external-files" class="level3">
+<h3 class="anchored" data-anchor-id="external-files">External files</h3>
+<p>MAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.</p>
+<div class="quarto-layout-panel" data-layout="[ 30, 70 ]">
+<div class="quarto-layout-row">
+<div class="{first-column} quarto-layout-cell" style="flex-basis: 30.0%;justify-content: flex-start;">
+<p>Open <code>MAXQDA &gt; Preferences</code> to change the external file settings.</p>
 <ol type="1">
-<li>Create an entirely new project.</li>
-<li>Open an existing MAXQDA project.</li>
-<li>Create a file that contains example data. This option is great for exploring the MAXQDA features and interface when you don’t have data of your own to work with.</li>
+<li><p>By default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.</p></li>
+<li><p>You can change the location for external files by clicking on the <code>...</code> button and then choosing a new location on your device.</p></li>
 </ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 70.0%;justify-content: flex-start;">
+<div id="fig-external" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-external-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../img/maxqda-external.png" class="img-fluid figure-img"></p>
+<figcaption>Open the MAXQDA preferences to set the size for files to be saved external storage and the external file location</figcaption>
+</figure>
+</div>
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-external-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->

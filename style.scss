@@ -1,5 +1,5 @@
 /*-- scss:defaults --*/
-@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 
 $white: #f8f1ed;
 $dk-green: #0a3d29;
@@ -8,7 +8,9 @@ $pink: #e99670;
 $lt-blue: #ccd8d9;
 $plum: #433543;
 
-$main-font: Literata;
+$main-font: Questrial;
+$h1-font-size: 2rem;
+$h2-font-size: 1.8rem;
 
 
 
@@ -40,4 +42,8 @@ $main-font: Literata;
     border-color: $dk-green;
     padding: 2px;
 
+}
+
+p {
+    font-size: 1rem;
 }
