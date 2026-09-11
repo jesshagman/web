@@ -1,11 +1,20 @@
 ---
 title: "Workshop: Introduction to MAXQDA"
---- 
+---
 
 # Welcome
 
-This workshop is for those new to MAXQDA. It covers: 
+This workshop is for those new to MAXQDA. It covers:
 
+- Accessing the University of Illinois license for MAXQDA (for those at UIUC)
+- Create a project file and setting file locations
+- An overview of the interface and key terms you'll need to use MAXQDA effectively
+- Adding commonly used data types into your MAXQDA project, including interview transcripts, text files, survey data, and media files.
+- Creating codes and applying them to text data.
 
+# Before You Begin
 
-# 
+- [Download MAXQDA to your Windows or Mac device](https://www.maxqda.com/download-now)
+- Download the interview data from
+
+#

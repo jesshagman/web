@@ -1,5 +1,5 @@
 ---
-title: "Setting up MAXQDA and Creating a New Project"
+title: "Setting up MAXQDA and Key Terms"
 ---
 
 # Use the Illinois license to access MAXQDA
@@ -44,5 +44,40 @@ You only need to connect a license if you want to use the AI-Assist features (wh
 To link a MAXQDA account:
 
 1.  Create an account [on the MAXQDA website](https://account.maxqda.com/register).
-2.  Look for the `Sign In` option in the upper right corner of the program.
-3.  Enter your account details.
+2.  Look for the `Sign In` option in the upper right corner of the program. (@fig-sign-in)
+3.  Enter your account details. (@fig-choose-license)
+
+::: {#fig-login layout-ncol="2"}
+![Sign in option (upper right in MAXQDA)](/img/maxqda-sign-in.png){#fig-sign-in fig-alt="Cropped view of the upper right corner of a MAXQDA window showing the option to log in"}
+
+![Enter your log in details](/img/maxqda-login.png){fig-alt="Log in screen for MAXQDA that appears after you choose to Sign In"}
+
+Logging into your MAXQDA account.
+:::
+
+# Key Terms
+
+Once you are logged in you and created a new project (see Creating a New Project for more information), you will see the MAXQDA program itself. There are four different windows[^1] within the program (@fig-maxqda-windows) that you will need to know. MAXQDA uses specific vocabulary terms throughout the software to describe parts of a qualitative project and it will be easier to conduct your own research with a strong grasp of this language.
+
+[^1]: [MAXQDA Manual: The main menu and the four main menus](https://www.maxqda.com/help/the-workspace/the-main-menu-and-the-four-main-windows)
+
+The four windows are:
+
+1.  Document system: The data files you upload will be stored here.
+2.  Code system: The codes you add to the project will be listed here.
+3.  Document browser: This window displays the data document that you have selected.
+4.  Retrieved segments: This window displays the data at the intersection of activated documents and codes. See more on activation.
+
+::: {#fig-maxqda-windows}
+![A new project in MAXQDA with all four workspace windows open.](/img/maxqda-new-project.png){fig-alt="New project in MAXQDA with each of the four work areas labeled. 1 is the Document System, 2 is the Code Sytem, 3 is the Document Browser, and 4 is the Retrieved Segments window. "}
+:::
+
+## Activation
+
+MAXQDA uses activation[^2] to help you focus on a subset of the data at the intersection of the activated codes and data documents. Once you have activated both data and code(s), you will see the matching data in the retrieved segments window (@fig-venn).
+
+[^2]: [📖 MAXQDA Manual: The principle of segment retrieval](https://www.maxqda.com/help/segment-retrieval/activation-principle-segment-retrieval)
+
+::: {#fig-venn}
+![Venn diagram illustrating the content of the retrieved segments window.](/img/activation-venn-diagram.png){fig-alt="Venn diagram. The left circle is for activated documents. The right circle is for activated codes. At the intersection is the data that appears in the retrieved segments window."}
+:::
