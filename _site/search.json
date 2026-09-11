@@ -4,7 +4,7 @@
     "href": "maxqda/intro/setup.html",
     "title": "Setting up MAXQDA and Key Terms",
     "section": "",
-    "text": "This section demonstrates how to use MAXQDA with the license provided by the University of Illinois Urbana-Champaign for current students, faculty, and staff.\nIf you’re not with the university, you can access MAXQDA by signing up for a free trial or purchasing your own license.\n\n\nIf you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (Figure 1) that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institutions network license.\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\nAfter you choose to make use of an institutional license, you’ll be prompted to enter the license details (Figure 2).\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect\n\n\n\n\n\n\n\nFigure 2\n\n\n\n\n\n\nIn addition to the network license, you may choose to log into the MAXQDA program with a (free) MAXQDA account. This account is not connected to your Illinois license, and you can use any email you prefer.\nYou only need to connect a license if you want to use the AI-Assist features (which is included in the Illinois license) or any of the other add-on features that can be purchased from MAXQDA, including automated transcription and Team Cloud tools.\nTo link a MAXQDA account:\n\nCreate an account on the MAXQDA website.\nLook for the Sign In option in the upper right corner of the program. (Figure 3 (a))\nEnter your account details. (Figure 1)\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Sign in option (upper right in MAXQDA)\n\n\n\n\n\n\n\n\nEnter your log in details\n\n\n\n\n\n\nFigure 3: Logging into your MAXQDA account.",
+    "text": "This section demonstrates how to use MAXQDA with the license provided by the University of Illinois Urbana-Champaign for current students, faculty, and staff.\nIf you’re not with the university, you can access MAXQDA by signing up for a free trial or purchasing your own license.\n\n\nIf you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (Figure 1) that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\nAfter you choose to make use of an institutional license, you’ll be prompted to enter the license details (Figure 2).\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect\n\n\n\n\n\n\n\nFigure 2\n\n\n\n\n\n\nIn addition to the network license, you may choose to log into the MAXQDA program with a (free) MAXQDA account. This account is not connected to your Illinois license, and you can use any email you prefer.\nYou only need to connect a license if you want to use the AI-Assist features (which is included in the Illinois license) or any of the other add-on features that can be purchased from MAXQDA, including automated transcription and Team Cloud tools.\nTo link a MAXQDA account:\n\nCreate an account on the MAXQDA website.\nLook for the Sign In option in the upper right corner of the program. (Figure 3 (a))\nEnter your account details. (Figure 1)\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Sign in option (upper right in MAXQDA)\n\n\n\n\n\n\n\n\nEnter your log in details\n\n\n\n\n\n\nFigure 3: Logging into your MAXQDA account.",
     "crumbs": [
       "Home",
       "Maxqda",
@@ -30,7 +30,7 @@
     "href": "maxqda/intro/setup.html#set-illinois-license-information",
     "title": "Setting up MAXQDA and Key Terms",
     "section": "",
-    "text": "Open the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (Figure 1) that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institutions network license.\n\n\n\n\n\n\nFigure 1",
+    "text": "Open the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (Figure 1) that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\n\n\nFigure 1",
     "crumbs": [
       "Home",
       "Maxqda",
@@ -92,7 +92,7 @@
     "href": "maxqda/intro/setup.html#footnotes",
     "title": "Setting up MAXQDA and Key Terms",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nMAXQDA Manual: The main menu and the four main menus↩︎\n📖 MAXQDA Manual: The principle of segment retrieval↩︎",
+    "text": "Footnotes\n\n\n📖 MAXQDA Manual: The main menu and the four main menus↩︎\n📖 MAXQDA Manual: The principle of segment retrieval↩︎",
     "crumbs": [
       "Home",
       "Maxqda",
@@ -105,12 +105,25 @@
     "href": "maxqda/intro/setup.html#activation",
     "title": "Setting up MAXQDA and Key Terms",
     "section": "Activation",
-    "text": "Activation\nMAXQDA uses activation2 to help you focus on a subset of the data at the intersection of the activated codes and data documents. Once you have activated both data and code(s), you will see the matching data in the retrieved segments window (Figure 5).\n\n\n\n\n\n\nVenn diagram illustrating the content of the retrieved segments window.\n\n\n\n\nFigure 5",
+    "text": "Activation\nMAXQDA uses activation2 to help you focus on a subset of the data at the intersection of the activated codes and data documents. Once you have activated both data and code(s), you will see the matching data in the retrieved segments window.\n\nHow would you use activation to analyze qualitative data?\nFor a set of data with with interviews and teachers about school-family communication, we have coded the interview data with examples of positive communication experiences:\n\nActivate the documents for teachers\nActivate codes related to positive communication\n\nThe retrieved segment window would then show us just the data that meets those two conditions.\nWe might then change the document activation to focus on parents instead.\nBy comparing the two sets of retrieved segments, we can start examining whether there are differences or similarities in how these two groups see positive school-family communication.",
     "crumbs": [
       "Home",
       "Maxqda",
       "Workshop: Introduction to MAXQDA",
       "Setting up MAXQDA and Key Terms"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/create-project.html",
+    "href": "maxqda/intro/create-project.html",
+    "title": "Creating a new project in MAXQDA",
+    "section": "",
+    "text": "Starting from the opening screen\nWhen you first open MAXQDA, you’ll be prompted tho choose what project file you want to work with.\n\n\n\n\n\n\nThe opening screen of MAXQDA where you can (1) create a new project (2) open an existing project or (3) open a file with example data.\n\n\n\n\nFigure 1\n\n\n\nThe three options are to:\n\nCreate an entirely new project.\nOpen an existing MAXQDA project.\nCreate a file that contains example data. This option is great for exploring the MAXQDA features and interface when you don’t have data of your own to work with.",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Creating a new project in MAXQDA"
     ]
   }
 ]

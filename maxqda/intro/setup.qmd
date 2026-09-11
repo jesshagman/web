@@ -16,10 +16,10 @@ If you haven't yet, [download the MAXQDA program](https://www.maxqda.com/downloa
 
 Open the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (@fig-choose-license) that says Welcome to MAXQDA and then asks you to choose a license option.
 
-Click on the option that says [Connect to your institutions network license]{bg="pink"}.
+Click on the option that says `Connect to your institution's network license`
 
-::: {#fig-choose-license}
-![](/img/maxqda-license-options.png){fig-alt="Welcome to MAXQDA screen with five options for setting a license. Select the third option that says \"Connect to your institutions network license\""}
+::: {#fig-choose-license .center}
+![](/img/maxqda-license-options.png){fig-alt="Welcome to MAXQDA screen with five options for setting a license. Select the third option that says \"Connect to your institutions network license\"" fig-align="center" width="80%"}
 :::
 
 ## Enter Illinois license information
@@ -31,7 +31,7 @@ After you choose to make use of an institutional license, you'll be prompted to 
 3.  Make sure the radio button for the last box is checked and enter the license name `MAXQDA` (all caps included).
 4.  Click `Connect`
 
-::: {#fig-network-license}
+::: {#fig-network-license .center}
 ![](/img/maxqda-network-license.png){fig-alt="MAXQDA network license screen with Illinois license details included. "}
 :::
 
@@ -59,7 +59,7 @@ Logging into your MAXQDA account.
 
 Once you are logged in you and created a new project (see Creating a New Project for more information), you will see the MAXQDA program itself. There are four different windows[^1] within the program (@fig-maxqda-windows) that you will need to know. MAXQDA uses specific vocabulary terms throughout the software to describe parts of a qualitative project and it will be easier to conduct your own research with a strong grasp of this language.
 
-[^1]: [MAXQDA Manual: The main menu and the four main menus](https://www.maxqda.com/help/the-workspace/the-main-menu-and-the-four-main-windows)
+[^1]: 📖 [MAXQDA Manual: The main menu and the four main menus](https://www.maxqda.com/help/the-workspace/the-main-menu-and-the-four-main-windows)
 
 The four windows are:
 
@@ -68,16 +68,25 @@ The four windows are:
 3.  Document browser: This window displays the data document that you have selected.
 4.  Retrieved segments: This window displays the data at the intersection of activated documents and codes. See more on activation.
 
-::: {#fig-maxqda-windows}
-![A new project in MAXQDA with all four workspace windows open.](/img/maxqda-new-project.png){fig-alt="New project in MAXQDA with each of the four work areas labeled. 1 is the Document System, 2 is the Code Sytem, 3 is the Document Browser, and 4 is the Retrieved Segments window. "}
+::: {#fig-maxqda-windows .center}
+![A new project in MAXQDA with all four workspace windows open.](/img/maxqda-new-project.png){fig-alt="New project in MAXQDA with each of the four work areas labeled. 1 is the Document System, 2 is the Code Sytem, 3 is the Document Browser, and 4 is the Retrieved Segments window. " fig-align="center" width="80%"}
 :::
 
 ## Activation
 
-MAXQDA uses activation[^2] to help you focus on a subset of the data at the intersection of the activated codes and data documents. Once you have activated both data and code(s), you will see the matching data in the retrieved segments window (@fig-venn).
+MAXQDA uses activation[^2] to help you focus on a subset of the data at the intersection of the activated codes and data documents. Once you have activated both data and code(s), you will see the matching data in the retrieved segments window.
 
 [^2]: [📖 MAXQDA Manual: The principle of segment retrieval](https://www.maxqda.com/help/segment-retrieval/activation-principle-segment-retrieval)
 
-::: {#fig-venn}
-![Venn diagram illustrating the content of the retrieved segments window.](/img/activation-venn-diagram.png){fig-alt="Venn diagram. The left circle is for activated documents. The right circle is for activated codes. At the intersection is the data that appears in the retrieved segments window."}
-:::
+### How would you use activation to analyze qualitative data?
+
+For a set of data with with interviews and teachers about school-family communication, we have coded the interview data with examples of positive communication experiences:
+
+1.  Activate the documents for teachers
+2.  Activate codes related to positive communication
+
+The retrieved segment window would then show us just the data that meets those two conditions.
+
+We might then change the document activation to focus on parents instead.
+
+By comparing the two sets of retrieved segments, we can start examining whether there are differences or similarities in how these two groups see positive school-family communication.
