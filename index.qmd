@@ -1,7 +1,7 @@
 ---
-title: "web"
+title: "Jess Hagman"
 ---
 
-This is a Quarto website.
+Hi, I'm Jess Hagman, a librarian at the University of Illinois Urbana-Champaign. This site is where i share the materials that I've created for teaching qualitative data analysis and other public materials from my work. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
