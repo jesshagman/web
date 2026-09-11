@@ -8,14 +8,23 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents: auto
 
 format:
   html:
     theme:
       - cosmo
       - brand
-    css: styles.css
+    css: style.scss
     toc: true
 
+brand: _brand.yml
+
+filters:
+  - highlight-text
 
 
+    

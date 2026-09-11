@@ -1,0 +1,22 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap');
+
+$white: #f8f1ed;
+$dk-green: #0a3d29;
+$blue: #0c5e76; 
+$pink: #e99670;
+$lt-blue: #ccd8d9;
+$plum: #433543;
+
+$main-font: Literata;
+
+
+
+/*-- scss:rules --*/
+
+.button {
+    color: $plum;
+    background-color: $pink;
+    border-color: $lt-blue;
+    border-style: solid;
+}

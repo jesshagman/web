@@ -1,0 +1,18 @@
+color:
+  palette:
+    white: "#f8f1ed"
+    dark-green: "#0a3d29"
+    blue: "#0c5e76"
+    pink: "#e99670"
+    plum: "#433543"
+    lite-blue: "#ccd8d9"
+  background: white
+  foreground: dark-green
+  primary: plum
+
+typography:
+  fonts:
+    - family: Literata
+      source: google
+  base: Literata
+  headings: Literata
