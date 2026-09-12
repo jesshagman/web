@@ -18,7 +18,7 @@ Open the program. The first time you open MAXQDA on a new device, you will need 
 
 Click on the option that says `Connect to your institution's network license`
 
-::: {#fig-choose-license .center}
+::: {#fig-choose-license}
 ![](/img/maxqda-license-options.png){fig-alt="Welcome to MAXQDA screen with five options for setting a license. Select the third option that says \"Connect to your institutions network license\"" fig-align="center" width="80%"}
 :::
 
@@ -47,13 +47,29 @@ To link a MAXQDA account:
 2.  Look for the `Sign In` option in the upper right corner of the program. (@fig-sign-in)
 3.  Enter your account details. (@fig-choose-license)
 
-::: {#fig-login layout-ncol="2"}
+::: {#fig-login}
 ![Sign in option (upper right in MAXQDA)](/img/maxqda-sign-in.png){#fig-sign-in fig-alt="Cropped view of the upper right corner of a MAXQDA window showing the option to log in"}
 
 ![Enter your log in details](/img/maxqda-login.png){fig-alt="Log in screen for MAXQDA that appears after you choose to Sign In"}
 
 Logging into your MAXQDA account.
 :::
+
+# Set Interface Language Optional
+
+MAXQDA's interface is available in English as well as [12-additional languages](https://www.maxqda.com/help/the-workspace/general-preferences).
+
+::::: {layout="[ 30, 70 ]"}
+
+::: {.first-column}
+Use `MAXQDA > Preferences` to open the preferences pane. Choose `Language` from the list of options on the left. Choose your preferred interface language from the drop down menu.
+:::
+
+::: {#fig-lang-interface}
+![MAXQDA preferences screen showing the option to choose the interface language.](/img/maxqda-set-language.png){fig-alt="MAXQDA preferences screen on the language settings. The English option is set. The drop down can be used to choose another language. "}
+:::
+
+:::::
 
 # Key Terms
 

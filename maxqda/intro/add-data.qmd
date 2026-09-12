@@ -2,6 +2,12 @@
 title: "Add data to your MAXQDA project"
 ---
 
+# Text Data
 
-# Text data
+# Media Data
 
+## Images
+
+## Audio or video
+
+# Survey Data

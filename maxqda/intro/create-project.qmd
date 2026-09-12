@@ -20,7 +20,6 @@ The three options are to:
 :::
 :::::
 
-
 ## Choose a project location
 
 After you choose to create a new project, you'll be prompted to choose where you want the project file to be stored.
@@ -56,3 +55,5 @@ Open `MAXQDA > Preferences` to change the external file settings.
 ![Open the MAXQDA preferences to set the size for files to be saved external storage and the external file location](/img/maxqda-external.png)
 :::
 :::::
+
+[[Next: Adding data to your project file](add-data.qmd)]{.navi}
