@@ -4,10 +4,10 @@ title: "Creating a new project in MAXQDA"
 
 # Start a new project
 
+::::: {layout="[ 30, 70 ]"}
+::: {first-column}
 When you first open MAXQDA, you'll be prompted tho choose what project file you want to work with.
 
-::::: {layout="[ 30, 70 ]"}
-::: {}
 The three options are to:
 
 1.  Create an entirely new project.
@@ -19,6 +19,7 @@ The three options are to:
 ![The opening screen of MAXQDA where you can (1) create a new project (2) open an existing project or (3) open a file with example data.](/img/maxqda-open-screen.png)
 :::
 :::::
+
 
 ## Choose a project location
 

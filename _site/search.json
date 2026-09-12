@@ -39,29 +39,6 @@
     ]
   },
   {
-    "objectID": "maxqda/intro/index.html",
-    "href": "maxqda/intro/index.html",
-    "title": "Workshop: Introduction to MAXQDA",
-    "section": "",
-    "text": "Welcome\nThis workshop is for those new to MAXQDA. It covers:\n\nAccessing the University of Illinois license for MAXQDA (for those at UIUC)\nCreate a project file and setting file locations\nAn overview of the interface and key terms you’ll need to use MAXQDA effectively\nAdding commonly used data types into your MAXQDA project, including interview transcripts, text files, survey data, and media files.\nCreating codes and applying them to text data.\n\n\n\nBefore You Begin\n\nDownload MAXQDA to your Windows or Mac device\nDownload the interview data from",
-    "crumbs": [
-      "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site",
-    "crumbs": [
-      "Home",
-      "About"
-    ]
-  },
-  {
     "objectID": "maxqda/intro/setup.html#enter-illinois-license-information",
     "href": "maxqda/intro/setup.html#enter-illinois-license-information",
     "title": "Setting up MAXQDA and Key Terms",
@@ -88,19 +65,6 @@
     ]
   },
   {
-    "objectID": "maxqda/intro/setup.html#footnotes",
-    "href": "maxqda/intro/setup.html#footnotes",
-    "title": "Setting up MAXQDA and Key Terms",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\n📖 MAXQDA Manual: The main menu and the four main menus↩︎\n📖 MAXQDA Manual: The principle of segment retrieval↩︎",
-    "crumbs": [
-      "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Setting up MAXQDA and Key Terms"
-    ]
-  },
-  {
     "objectID": "maxqda/intro/setup.html#activation",
     "href": "maxqda/intro/setup.html#activation",
     "title": "Setting up MAXQDA and Key Terms",
@@ -114,11 +78,24 @@
     ]
   },
   {
+    "objectID": "maxqda/intro/setup.html#footnotes",
+    "href": "maxqda/intro/setup.html#footnotes",
+    "title": "Setting up MAXQDA and Key Terms",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n📖 MAXQDA Manual: The main menu and the four main menus↩︎\n📖 MAXQDA Manual: The principle of segment retrieval↩︎",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Key Terms"
+    ]
+  },
+  {
     "objectID": "maxqda/intro/create-project.html",
     "href": "maxqda/intro/create-project.html",
     "title": "Creating a new project in MAXQDA",
     "section": "",
-    "text": "When you first open MAXQDA, you’ll be prompted tho choose what project file you want to work with.\n\n\n\nThe three options are to:\n\nCreate an entirely new project.\nOpen an existing MAXQDA project.\nCreate a file that contains example data for exploring MAXQDA features.\n\n\n\n\n\n\n\n\n\nThe opening screen of MAXQDA where you can (1) create a new project (2) open an existing project or (3) open a file with example data.\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\nAfter you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\n\n\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\nYou should choose a storage location that meets any data security and confidentiality protections required by the IRB application or project design.\n\n\n\n\n\n\nWarningSaving to external or cloud storage?\n\n\n\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.\n\n\n\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\n\nFigure 2",
+    "text": "When you first open MAXQDA, you’ll be prompted tho choose what project file you want to work with.\nThe three options are to:\n\nCreate an entirely new project.\nOpen an existing MAXQDA project.\nCreate a file that contains example data for exploring MAXQDA features.\n\n\n\n\n\n\n\n\n\nThe opening screen of MAXQDA where you can (1) create a new project (2) open an existing project or (3) open a file with example data.\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\nAfter you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\n\n\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\nYou should choose a storage location that meets any data security and confidentiality protections required by the IRB application or project design.\n\n\n\n\n\n\nWarningSaving to external or cloud storage?\n\n\n\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.\n\n\n\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\n\nFigure 2",
     "crumbs": [
       "Home",
       "Maxqda",
@@ -140,16 +117,46 @@
     ]
   },
   {
-    "objectID": "maxqda/intro/create-project.html#footnotes",
-    "href": "maxqda/intro/create-project.html#footnotes",
-    "title": "Creating a new project in MAXQDA",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\n📖 MAXQDA Manual: External Files↩︎",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jess Hagman",
+    "section": "",
+    "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign. This site is where i share the materials that I’ve created for teaching qualitative data analysis and other public materials from my work."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/index.html",
+    "href": "maxqda/intro/index.html",
+    "title": "Workshop: Introduction to MAXQDA",
+    "section": "",
+    "text": "Welcome\nThis workshop is for those new to MAXQDA. It covers:\n\nAccessing the University of Illinois license for MAXQDA (for those at UIUC)\nCreate a project file and setting file locations\nAn overview of the interface and key terms you’ll need to use MAXQDA effectively\nAdding commonly used data types into your MAXQDA project, including interview transcripts, text files, survey data, and media files.\nCreating codes and applying them to text data.\n\n\n\nBefore You Begin\n\nDownload MAXQDA to your Windows or Mac device\nDownload the interview data from",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/add-data.html",
+    "href": "maxqda/intro/add-data.html",
+    "title": "Add data to your MAXQDA project",
+    "section": "",
+    "text": "Text data",
     "crumbs": [
       "Home",
       "Maxqda",
       "Workshop: Introduction to MAXQDA",
-      "Creating a new project in MAXQDA"
+      "Add data to your MAXQDA project"
     ]
   }
 ]

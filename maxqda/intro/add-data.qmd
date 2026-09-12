@@ -1,0 +1,7 @@
+---
+title: "Add data to your MAXQDA project"
+---
+
+
+# Text data
+

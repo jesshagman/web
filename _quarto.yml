@@ -18,7 +18,7 @@ format:
     theme:
       - brand
     css: style.scss
-    toc: true
+    fig-cap-location: bottom
 
 brand: _brand.yml
 
