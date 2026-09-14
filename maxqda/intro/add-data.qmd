@@ -2,7 +2,45 @@
 title: "Add data to your MAXQDA project"
 ---
 
-# Text Data
+You can add many different types of data to your MAXQDA project. When you open the Import menu, you'll see a list of options for different data types @fig-import
+
+::: {#fig-import}
+![Import menu in MAXQDA showcasing the options for uploading different types of data](/img/maxqda-import-bar.png)
+:::
+
+# Text data
+
+::::: {layout="[ 30, 70 ]"}
+::: {first-column}
+Any text data files can be added to MAXQDA by using `Insert > Texts, PDFs, Tables` option. You'll be prompted to select the files you want to upload from your device (#1) and click `open` (#2).
+
+If you have interview transcripts without time stamps, you can import these as text documents as well. @fig-upload-text shows importing interview transcripts without time stamps in Word documents.
+:::
+
+::: {#fig-upload-text}
+![Selecting interview transcript files to upload to MAXQDA](/img/maxqda-select-files.png){fig-alt="user selecting a set of transcript files from the Mac finder"}
+:::
+:::::
+
+You can also drag and drop files from your computer's file system into the document window of MAXQDA. I have noticed, however, that dragging a large number of files can cause errors.
+
+## Existing highlights or comments in Word or PDF documents
+
+If you upload Word or PDF documents that have existing highlighted portions or comments, those will be imported into your MAXQDA project along with the data files.
+
+::: {#fig-highlight-codes}
+![Example of codes created when uploaded Word or PDF documents with highlights. ](/img/maxqda-highlight-code.png){fig-alt="Example of codes created in code system when highlighted documents are uploaded. The two codes in this example are labeled \"black\" and \"yellow\""}
+:::
+
+Highlighted sections will be coded with the color of the highlight, with MAXQDA creating a new code labeled with the color name. You can change the name of the color to a descriptive term if you would like.
+
+Comments will be added and appear in the left side of the document.
+
+# Transcripts with media and time stamps
+
+If you have interview or focus group data
+
+## Transcribing in MAXQDA
 
 # Media Data
 
@@ -11,3 +49,5 @@ title: "Add data to your MAXQDA project"
 ## Audio or video
 
 # Survey Data
+
+MAXQDA can be used to analyze survey data

@@ -151,7 +151,7 @@
     "href": "maxqda/intro/add-data.html",
     "title": "Add data to your MAXQDA project",
     "section": "",
-    "text": "Text data",
+    "text": "You can add many different types of data to your MAXQDA project. When you open the Import menu, you’ll see a list of options for different data types Figure 1",
     "crumbs": [
       "Home",
       "Maxqda",
@@ -196,6 +196,32 @@
       "Maxqda",
       "Workshop: Introduction to MAXQDA",
       "Setting up MAXQDA and Key Terms"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/add-data.html#transcribing-in-maxqda",
+    "href": "maxqda/intro/add-data.html#transcribing-in-maxqda",
+    "title": "Add data to your MAXQDA project",
+    "section": "Transcribing in MAXQDA",
+    "text": "Transcribing in MAXQDA",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Add data to your MAXQDA project"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/add-data.html#existing-highlights-or-comments-in-word-or-pdf-documents",
+    "href": "maxqda/intro/add-data.html#existing-highlights-or-comments-in-word-or-pdf-documents",
+    "title": "Add data to your MAXQDA project",
+    "section": "Existing highlights or comments in Word or PDF documents",
+    "text": "Existing highlights or comments in Word or PDF documents\nIf you upload Word or PDF documents that have existing highlighted portions or comments, those will be imported into your MAXQDA project along with the data files.\n\n\n\n\n\n\nExample of codes created when uploaded Word or PDF documents with highlights.\n\n\n\n\nFigure 3\n\n\n\nHighlighted sections will be coded with the color of the highlight, with MAXQDA creating a new code labeled with the color name. You can change the name of the color to a descriptive term if you would like.\nComments will be added and appear in the left side of the document.",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Add data to your MAXQDA project"
     ]
   }
 ]

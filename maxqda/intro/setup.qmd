@@ -38,7 +38,7 @@ After you choose to make use of an institutional license, you'll be prompted to 
 4.  Click `Connect`
 
 ::: {#fig-network-license .center}
-![](/img/maxqda-network-license.png){fig-alt="MAXQDA network license screen with Illinois license details included. "}
+![License information added](/img/maxqda-network-license.png){fig-alt="MAXQDA network license screen with Illinois license details included. "}
 :::
 
 ::: callout-important
