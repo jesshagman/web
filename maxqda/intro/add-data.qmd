@@ -52,4 +52,3 @@ If you have video or audio of interviews or focus groups, you may want to create
 
 MAXQDA can be used to analyze survey data
 
-<embed src="https://jesshagman.github.io/web/plan-qda.html#/planning-qualitative-data-analysis" width="100%">

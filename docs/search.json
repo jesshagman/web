@@ -202,29 +202,6 @@
     "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign. This site is where i share the materials that I’ve created for teaching qualitative data analysis and other public materials from my work."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site",
-    "crumbs": [
-      "Home",
-      "About"
-    ]
-  },
-  {
-    "objectID": "maxqda/intro/index.html",
-    "href": "maxqda/intro/index.html",
-    "title": "Workshop: Introduction to MAXQDA",
-    "section": "",
-    "text": "Welcome\nThis workshop is for those new to MAXQDA. It covers:\n\nAccessing the University of Illinois license for MAXQDA (for those at UIUC)\nCreate a project file and setting file locations\nAn overview of the interface and key terms you’ll need to use MAXQDA effectively\nAdding commonly used data types into your MAXQDA project, including interview transcripts, text files, survey data, and media files.\nCreating codes and applying them to text data.\n\n\n\nBefore You Begin\n\nDownload MAXQDA to your Windows or Mac device\nDownload the interview data from",
-    "crumbs": [
-      "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA"
-    ]
-  },
-  {
     "objectID": "plan-qda.html#types-of-research-findings-or-outcomes",
     "href": "plan-qda.html#types-of-research-findings-or-outcomes",
     "title": "web",
@@ -332,6 +309,29 @@
     "crumbs": [
       "Home",
       "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/index.html",
+    "href": "maxqda/intro/index.html",
+    "title": "Workshop: Introduction to MAXQDA",
+    "section": "",
+    "text": "Welcome\nThis workshop is for those new to MAXQDA. It covers:\n\nAccessing the University of Illinois license for MAXQDA (for those at UIUC)\nCreate a project file and setting file locations\nAn overview of the interface and key terms you’ll need to use MAXQDA effectively\nAdding commonly used data types into your MAXQDA project, including interview transcripts, text files, survey data, and media files.\nCreating codes and applying them to text data.\n\n\n\nBefore You Begin\n\nDownload MAXQDA to your Windows or Mac device\nDownload the interview data from",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA"
     ]
   }
 ]
