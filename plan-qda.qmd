@@ -1,0 +1,498 @@
+---
+format:
+  revealjs: 
+    theme: [simple, style.scss]
+    footer: "Jess Hagman | Planning QDA Workshop Fall 26 | [go.illinois.edu/planqda](https://go.illinois.edu/planqda)"
+    embed-resources: true
+bibliography: references.bib
+csl: apa.csl
+---
+
+# Planning Qualitative Data Analysis {footer="false"}
+
+Jess Hagman \| jhagman\@illinois.edu \| Consultations: [go.illinois.edu/hagman](https://go.illinois.edu/hagman)
+
+More workshops and additional QDA resources: [go.illinois.edu/qda](https://go.illinois.edu/qda "QDA Resources Research Guide")
+
+------------------------------------------------------------------------
+
+::: brainstorm
+🧠 Take 5 minutes to imagine the end of your research project. Make notes or draw out:
+
+- Who is reading your work?
+- Do you have a method in mind?
+- What format are the results in? Numbers? Themes? Narratives?
+- Why should the reader trust your analysis? What have you done that makes your analysis credible?
+
+❗You're not developing an answer to the research question, just looking at the format
+:::
+
+
+# Key themes
+
+::: incremental
+- There is no 'right' way to analyze your data. You get to decide, while your reader gets to decide whether to trust your analysis.
+- Qualitative is a broad category of research, with many different types of outcomes and ways of assessing rigor. When your readers have different ideas about what research quality is your work may be evaluated unfairly or receive unhelpful feedback.
+- Use the product you develop to make a clear case for your analysis strategies and why your analysis is credible.
+:::
+
+## Types of research findings or outcomes
+
+- Frequencies or counts
+- Topical surveys
+- Thematic
+- Theories or explanations
+- Ethnographic description
+
+------------------------------------------------------------------------
+
+### Frequencies or counts
+
+::: quote
+💬 Out of the forty-three public libraries selected for this study, less than fifty percent (N = 19) had readily available statements that matched the previously listed criteria. [@chae2023]
+:::
+
+Counts of how often a concept appears in the whole data or across parts of the data. Reproducability and reliability are valued, as the code system is acting as a representation of the data.
+
+Getting to a frequency result will usually require a method of identifying words or concepts in the data using a consistently applied coding system. Researchers often use inter-rater reliability measures to assess whether their coding system should be considered a trustworthy way of presenting the data.
+
+------------------------------------------------------------------------
+
+### Topical surveys
+
+::: quote
+💬 Of the 180 job positions, the most common research data activities mentioned were general data management (n = 154, 86%), data repository (n = 122, 68%), data curation (n = 101, 56%), data discovery (n = 97, 54%) and data documentation (n = 96, 53%; Figures 9 and 10 and Appendix C).
+:::
+
+Topic is used here to refer to the identification of concepts in the data that are relatively straightforward and easy to consistently identify. [@sandelowski2003]. The topics may be presented with frequencies, as in this example that is described as a "deductive thematic analysis." [@thielen2020, p. 114]
+
+------------------------------------------------------------------------
+
+### Themes
+
+::: quote
+💬 The central aim of our web content analysis was to examine claims about the gap year as (an act of) moral tourism, a means of self-development and ultimately resulting in global citizenship...The findings are presented in two sections; the first concerns the gap year as (an act of) moral tourism, and the second illustrates the gap year as (a tool for) self-development. [@hermann2017]
+:::
+
+Researchers who use theories (as compared to topics) go beyond a surface-level understanding of the data and explore patterns. Themes may be presented as a list with examples, or the researcher may weave together the themes to offer a bigger picture story. [@sandelowski2003]
+
+------------------------------------------------------------------------
+
+### Theories or explanations
+
+::: quote
+💬 The grounded theory presented here consists of three dimensions (or core categories) that determine the quality of a web archive: correspondence, relevance, and archivability. [@ayala2022]
+:::
+
+Theories can be any proposed relationships among concepts, explanations, ideal types or other ways of understanding the concept that can be used to understand the situation as well as related situations outside of the context of the specific research. [@coffey1996].
+
+The most extensive theories or explanations draw on a wide range of concepts from the literature and evidence from the data to answer the question: what's happening here? [@sandelowski2003]
+
+------------------------------------------------------------------------
+
+### Ethnographic description
+
+::: quote
+💬 Our overarching finding is that non-patient-facing work is care work. Its connection with direct patient care is not simply that it is the work generated by patient care (or needed to inform it) but rather it is - in its very essence - a form of care, conducted within a context of clinical complexity and high workload.
+
+Broadly we identified three inter-related practices... [@barnard2024, p. 4]
+:::
+
+Ethnographic research usually involves the researcher spending significant amount of time in "the field" or engaged with the community they are studying, with analysis strategies used to make a detailed interpretation of what is happening in that setting. These works may be presented in book form.
+
+------------------------------------------------------------------------
+
+## Describing your methods and values
+
+::: incremental
+- Qualitative is a big category, with lots of different types of data, analysis strategies, and ideas about what "quality" looks like. [@small2022]. Under this "Big Tent" [@tracy2025] of qualitative research, it can be hard for new researchers to find their place and what makes *their* research credible to readers. [@roulston2018]
+- When readers have different ideas about what makes research high quality, you may receive feedback or evaluation that is based on different assumptions about rigor. [@clarke2025; @moura2025].
+- To counter this challenge, your paper should explain how you analyzed the data and what you believe makes the analysis credible. [@smagorinsky2008; @staller2013]
+:::
+
+------------------------------------------------------------------------
+
+### Differences in values based on types of qualitative research
+
++----------------------------------------+-----------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+|                                        | Interpretive                                                                                                    | Positivist                                                                                                                                  |
++========================================+=================================================================================================================+=============================================================================================================================================+
+| Assumptions about research and reality | Research captures a partial or constructed view of reality                                                      | Research should strive to get as close as possible to a singular, knowable reality.                                                         |
++----------------------------------------+-----------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Methodologies                          | Discourse analysis, reflexive thematic analysis, narrative analysis, auto/ethnography                           | Content analysis, Grounded Theory, codebook based approaches seeking quantification                                                         |
++----------------------------------------+-----------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Role of the researcher                 | Researchers should be transparent about how their positionality influences their analysis and research outcome. | Researchers should limit their own influence on the research process as much as possible.                                                   |
++----------------------------------------+-----------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| Generalizability                       | Analysis can be used to understand other situations. May use transferability @stalmeijer2024 instead.           | Sees statistical generalizability as the ideal and will often describe the lack of generalization as a limitation of the research produced. |
++----------------------------------------+-----------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+### Be explicit in stating your research values
+
++-------------------------------------------------------------------------------------+----------------------------------------------------------------+
+| Interpretive                                                                        | Positivist                                                     |
++=====================================================================================+================================================================+
+| Triangulation as drawing on multiple forms of data and points of view [@varpio2017] | Triangulation as verification of singular reality[@morgan2024] |
+|                                                                                     |                                                                |
+| Crystalization [@stewart2023]                                                       | Saturation [@naeem2024]                                        |
+|                                                                                     |                                                                |
+| Reflexivity [@jamieson]                                                             | Reliability                                                    |
+|                                                                                     |                                                                |
+| Going beyond face value [@jerolmack2022]                                            | Reproducability [@downey2024]                                  |
+|                                                                                     |                                                                |
+| Deep engagement with the data or time spent in the field                            |                                                                |
++-------------------------------------------------------------------------------------+----------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+### Communicating values: Triangulation
+
+::: quote
+💬 To ensure trustworthiness, analyst triangulation was applied, with the researchers independently coding and categorizing data, and each step of the analysis process was discussed until consensus about the interpretation was achieved. [@hedbom2023, p. 9]
+:::
+
+------------------------------------------------------------------------
+
+### Communicating values: Depth of engagement
+
+::: quote
+💬 We created in-depth summaries of each interview, incorporating findings from each listening. This deep engagement resulted in rich summaries and facilitated meaningful sharing between researchers of both the content and the essence of interviews. [@barnard2024, p. 4]
+:::
+
+------------------------------------------------------------------------
+
+### Communicating values: Transferability, thick description
+
+::: quote
+💬 We used thick description to demonstrate transferability, meaning using detailed descriptions and quotes from the transcripts when writing up the findings \[43\], allowing others to determine the context and fit when considering applying findings to a different setting. To demonstrate dependability and confirmability, we used a cloud-based platform \[41\] to assist in the process of analyzing and organizing data \[43\]. Further, we engaged in ongoing discussions and reflexivity throughout the research process \[44\]. [@plett2024, p. 6]
+:::
+
+------------------------------------------------------------------------
+
+### Communicating values: Avoidng bias
+
+::: quote
+💬 Each reviewer maintained individual data records in Google Sheets to reduce the potential for bias. [@manson2026, p. 268]
+:::
+
+------------------------------------------------------------------------
+
+### How do you know what your readers think about qualitative quality?
+
+Ask! Advisors, instructors, committee members about what they value in qualitative research?
+
+Look to examples of dissertations or published research and pay attention to methodological elements.
+
+- How do they describe the analysis process?
+- How do they communicate their ideas of rigor?
+
+Compare what you see to your own values and beliefs. Are there differences? If so, how will you address them? [@staller2013; @oreilly2015]
+
+::: question
+❓ How does your field or discipline view qualitative research? Is it valued? What is considered rigorous qualitative work? Would you consider your work more interpretive or positivist?
+:::
+
+# Analysis Strategies {.center}
+
+Once we know where we're going and what it means to develop rigorous outcomes, we need to decide how we'll get there.
+
+- Sorting data into groups or variables
+- Transcribing from media to text data
+- Coding
+- Analyzing coded data
+- Writing
+
+------------------------------------------------------------------------
+
+## Sorting data into groups or variables
+
+The concept of variables is used more frequently in quantitative research, but we can use this language to think of groups within the data that we want to use for comparison in order to answer our research questions.[^1]
+
+[^1]: I use variables here because this is the term used in [MAXQDA](https://go.illinois.edu/maxqda), the QDA software available on campus.
+
+Variables can be:
+
+- pre-existing: such as types of data, groups of participants, research sites, or phases of data collection
+- or, identified as you analyze and applied to the data for comparisons, such as when you identify a group of participants who have an experience relevant to your research questions.
+
+::: question
+❓ What existing groups or variables are there in your data?
+:::
+
+------------------------------------------------------------------------
+
+## Transcribing data from media to text formats
+
+::::: columns
+::: {.column width="30%"}
+![](/img/transcription_illustration.png){.column fig-alt="Illustration of the transcription process from an online interview to transcript documents. " fig-align="left" width="100%"}
+:::
+
+::: {.column width="50%"}
+The practice of transforming audio or video content into text for the purposes of analysis.
+
+Potential tools:
+
+- Meeting software transcripts (e.g. Zoom, Teams)
+- Transcription software ([Trint](https://trint.com/), [Otter](https://otter.ai/))
+- Manual transcription support - provides tools to facilitate typing what you hear (e.g. [MAXQDA](https://www.maxqda.com/help/transcription-audio-video/transcription-mode), [oTranscribe)](https://otranscribe.com/opensource/)
+- [Illinois Mediaspace](https://mediaspace.illinois.edu/) - create and edit a transcription of uploaded media.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Deciding how to transcribe
+
+With the tools available for transcription today[@paulus2013; @jenkins2023], this may seem like a simple technical process, but you will still need to consider:
+
+::: incremental
+- Data security and privacy protection for participants: Does the transcription service provide sufficient protection of the data you have collected? Note: This question should be addressed in your IRB application.
+- Whether to code all statements (including from participants and the interviewer) and whether transcription should be word-for-word
+- Whether any additional information should be coded, such as descriptions of non-verbal communication or interactions between participants. [@jenkins2023]
+:::
+
+::: question
+❓ Do you need to transcribe any data for your project? How much of the data needs to be transcribed? Will you need word-for-word transcription? What about non-verbal information?
+:::
+
+------------------------------------------------------------------------
+
+## Coding
+
+::::: columns
+::: {.column width="50%"}
+![](/img/coding-illustration.png){fig-alt="Icon illustrating coding on a printed document."}
+:::
+
+::: {.column width="50%"}
+Labeling segments of the data with a topic, concept, or other descriptor. These codes allow us to look up from the specifics of individuals or cases and look *across* the data to identify patterns. [@richards2021]
+
+While coding is used in many qualitative methods, it is not a required element of every qualitative project. [@saldaña2025; @coffey1996].
+
+Coding can be done using analog versions of your data, with ordinary productivity software, or software developed specifically for qualitative data analysis (sometimes called CAQDAS or QDAS).
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Where do codes come from?
+
+- Inductive approaches: Researchers who value inductive analysis want to develop concepts directly from the data and limit how much pre-existing ideas influences the description of the data and eventual analysis. Inductive coding is essential to Grounded Theory analysis, as well as in studies where not much is already known about the situation, or the researcher wants to keep the analysis close to the language of the communities involved.
+- Codes can also come from an existing conceptual framework or theory that you have identified in the literature around your topic.
+- Most research involves some combination of these two approaches.
+
+------------------------------------------------------------------------
+
+### What to code?
+
+Before you begin coding, it can help to make a plan for how what to code and with what level of detail.
+
+- Unless you are using a highly inductive approach, you may not need to code all the data. This is especially important for larger projects where you want to break the analysis out in to different projects. [@deterding2021]
+- You can code anything from a single word to the whole document. Consider how much context you will need to understand the data when you remove it from the original context. You may decide to code at the sentence or paragraph level, or to code an entire exchange between an interviewer and participant.
+
+::: question
+❓ Draft some potential coding ideas for your own research project.
+:::
+
+------------------------------------------------------------------------
+
+## Analyzing coded data
+
+Once you have coded your data, you can use the coded data set to ask further questions about the data and move towards research findings.
+
+------------------------------------------------------------------------
+
+### View data for a single code
+
+::::: columns
+::: {.column width="65%"}
+![](/img/data-one-code.png){fig-alt="Screenshot of a coded segments window showing all the data associated with " fig-align="left" width="100%"}
+:::
+
+::: {.column width="30%"}
+This screenshot from MAXQDA shows all data for a single code about how participants work with the school and teacher. From here, we could compare to other related codes to decide how this concepts fits in our analysis.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Which codes appear in which documents or cases
+
+::::: columns
+::: {.column width="50%"}
++--------------+---------------+---------------+
+|              | Participant 1 | Participant 2 |
++==============+:=============:+:=============:+
+| Code A       | 4             | 1             |
++--------------+---------------+---------------+
+| Code B       | 1             | 6             |
++--------------+---------------+---------------+
+| Code C       | 0             | 2             |
++--------------+---------------+---------------+
+:::
+
+::: {.column width="50%"}
+When we have coded data, we can find out how often codes occur in different documents. Even if we do not intend to report a frequency, the differences in how often a concept is located in a document can be an indicate a pattern that we want to know more about. Why do these two participants report differing experiences with these three concepts?
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Compare code counts across variables or other groups in the data
+
+::::: columns
+::: {.column width="50%"}
++-----------+-----------+-----------+
+|           | Group 1   | Group 2   |
++===========+===========+===========+
+| Code A    | 54        | 14        |
++-----------+-----------+-----------+
+| Code B    | 13        | 14        |
++-----------+-----------+-----------+
+| Code C    | 47        | 36        |
++-----------+-----------+-----------+
+:::
+
+::: {.column width="50%"}
+In this example we've counted the occurrence of codes for two different groups within the study, rather than individuals. Now we can ask questions about why one *group* may have different experiences with a coded concept.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Compare the data across documents or groups within the data
+
+::::: columns
+::: {.column width="50%"}
++---------------+-------------------------------+-------------------------------+
+|               | Group 1                       | Group 2                       |
++===============+===============================+===============================+
+| Code A        | Coded data for Group 1/Code A | Coded data for Group 2/Code A |
++---------------+-------------------------------+-------------------------------+
+| Code B        | Coded data for Group 1/Code B | Coded data for Group 2/Code B |
++---------------+-------------------------------+-------------------------------+
+| Code C        | Coded data for Group 1/Code C | Coded data for Group 2/Code C |
++---------------+-------------------------------+-------------------------------+
+:::
+
+::: {.column width="50%"}
+In this case, we've moved from counting how often codes occur across groups to examining the content of the codes for each group. We can use this strategy to look at the qualitative data and start identifying what similarities and differences there are in the text data for these two groups.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Examining negative cases
+
+When we talk about patterns we see in the data, we'll often have cases that don't quite fit the pattern.
+
+Using your coded data, you can identify cases that do not fit a pattern and examine the specifics of that case to see if you need to change how you are presenting the pattern.
+
+------------------------------------------------------------------------
+
+## Writing
+
+Across qualitative texts, you'll find a frequent recommendation to write throughout the process of collecting and analyzing data.
+
+Writing has you work has several benefits, including:
+
+::: incremental
+- Writing as thinking: Sometimes writing out an explanation serves as a way of thinking through a challenge or question in a way that just internal pondering cannot.[@montgomery2007; @keane2022]
+- Writing as documentation: Have a record of how you analyzed the data and how your interpretation developed will help you write about that process and communicate the quality of your analysis.[@kalpokas2022]
+- Writing as kindness to your future self: The version of yourself who writes the paper or dissertation that comes out of this analysis will appreciate having as much previously written information as possible. You may be able to edit and use your memos or other writing in your final product.
+:::
+
+------------------------------------------------------------------------
+
+### Writing memos
+
+Memos are often framed as responses to specific prompts that encourage you to think about the analysis in a particular way.
+
+Some examples for analyzing interview data: [@mihas2022]
+
+- Why does this quotation capture my attention? What does it tell me about the participant?
+- What does this interview or document tell me about the research question?
+- How does this quotation compare to the overall patterns I see in the data? How do I explain differences?
+
+Prompts can also be used to identify concepts and relationships in the data [@keane2022]
+
+- What is going on here?
+- What led to this event happening?
+- What happened as a result?
+- What is necessary for this to happen?
+
+------------------------------------------------------------------------
+
+### Writing for reflexivity
+
+If you value the practice of reflexivity[@pillow2003] in your research, you can use memos to articulate your assumptions and experiences to examine how they may influence your analysis process. [@keane2022]
+
+Prompts:
+
+- What has been my experience with the research topic before this project? How has that influenced the collection and analysis of data?
+- Why does a particular segment of the data feel surprising? What assumptions does it violate?
+- How does my position as the researcher influence how participants may share information with me? Do they view me as an outsider, or someone with insider knowledge?
+
+------------------------------------------------------------------------
+
+### Writing summaries and creating matrix views
+
+::::: columns
+::: {.column width="50%"}
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+|           | Group 1                                                                                                                                       | Group 2                                                                                                                                       |
++===========+===============================================================================================================================================+===============================================================================================================================================+
+| Code A    | Your summary of how Group 1 experiences Code A, including any deviations from a pattern and observations about differences from other groups. | Your summary of how Group 2 experiences Code A, including any deviations from a pattern and observations about differences from other groups. |
++-----------+-----------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+
+:::
+
+::: {.column width="50%"}
+When you have your data coded, you can also create summaries to help you identify patterns or differences across the data. In the example here, we have a single code that has been applied for two different groups within the data. Instead of counts of the code or even the actual coded data, we would develop a summary here that communications the overall observation or trends.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Diagramming
+
+::::: columns
+::: {.column width="40%"}
+Sometimes 'writing' takes the form of diagramming or illustrating the concepts in your data. The example here, from the third edition of the Coding Manual for Qualitative Researchers,[@saldaña2016] suggests a taxonomy of ways that children oppress each other. In this case the authors differentiate between the actions of boys and girls, noting that boys show more types of physical force, while girls tend to use harmful language.
+:::
+
+::: {.column width="60%"}
+![](/img/mapping-concepts.jpeg){fig-alt="Illustration of a taxonomy developed from a qualitative research project. "}
+:::
+:::::
+
+# Technology for Qualitative Data Analysis
+
+There are no required technologies for QDA. If you like printed versions and marking up with different colors and that works for you, then keep doing that.
+
+You may also be able to adapt software you already use, like Word docs, spreadsheets, or personal knowledge management systems.
+
+Software developed specifically for qualitative data analysis is useful when:
+
+- You have a large volume of data or many different cases to keep track of
+- You want to generate counts of codes and assess inter-rater reliability
+- You expect to develop a complex code system where you'll apply multiple codes to a single segment of the data.
+
+## MAXQDA is provided for all Illinois students, faculty, and staff
+
+![](/img/maxqda-project-example.png){fig-alt="Screnshot of MAXQDA"}
+
+## Taguette is easy-to-use and free, but with fewer capabilities
+
+![](/img/taguette-example.png){fig-alt="Screenshot of coded data in Taguette "}
+
+## AI
+
+Major ethical and data security questions for any sensitive or protected data.
+
+From reading lots of example, it seems like LLMs do OK with identifying topics, but can still be prone to hallucination. Identiying themes (that are more based on context) is less effective.
+
+Effective results require extensive prompting.
+
+# References {.scrollable}

@@ -223,5 +223,115 @@
       "Maxqda",
       "Workshop: Introduction to MAXQDA"
     ]
+  },
+  {
+    "objectID": "plan-qda.html#types-of-research-findings-or-outcomes",
+    "href": "plan-qda.html#types-of-research-findings-or-outcomes",
+    "title": "web",
+    "section": "Types of research findings or outcomes",
+    "text": "Types of research findings or outcomes\n\nFrequencies or counts\nTopical surveys\nThematic\nTheories or explanations\nEthnographic description",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#describing-your-methods-and-values",
+    "href": "plan-qda.html#describing-your-methods-and-values",
+    "title": "web",
+    "section": "Describing your methods and values",
+    "text": "Describing your methods and values\n\nQualitative is a big category, with lots of different types of data, analysis strategies, and ideas about what “quality” looks like. (Small & Calarco, 2022). Under this “Big Tent” (Tracy, 2025) of qualitative research, it can be hard for new researchers to find their place and what makes their research credible to readers. (Roulston & Bhattacharya, 2018)\nWhen readers have different ideas about what makes research high quality, you may receive feedback or evaluation that is based on different assumptions about rigor. (Clarke et al., 2025; Moura et al., 2025).\nTo counter this challenge, your paper should explain how you analyzed the data and what you believe makes the analysis credible. (Smagorinsky, 2008; Staller & Krumer-Nevo, 2013)",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#sorting-data-into-groups-or-variables",
+    "href": "plan-qda.html#sorting-data-into-groups-or-variables",
+    "title": "web",
+    "section": "Sorting data into groups or variables",
+    "text": "Sorting data into groups or variables\nThe concept of variables is used more frequently in quantitative research, but we can use this language to think of groups within the data that we want to use for comparison in order to answer our research questions.1\nVariables can be:\n\npre-existing: such as types of data, groups of participants, research sites, or phases of data collection\nor, identified as you analyze and applied to the data for comparisons, such as when you identify a group of participants who have an experience relevant to your research questions.\n\n\n❓ What existing groups or variables are there in your data?\n\nI use variables here because this is the term used in MAXQDA, the QDA software available on campus.",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#transcribing-data-from-media-to-text-formats",
+    "href": "plan-qda.html#transcribing-data-from-media-to-text-formats",
+    "title": "web",
+    "section": "Transcribing data from media to text formats",
+    "text": "Transcribing data from media to text formats\n\n\n\n\n\n\n\n\nThe practice of transforming audio or video content into text for the purposes of analysis.\nPotential tools:\n\nMeeting software transcripts (e.g. Zoom, Teams)\nTranscription software (Trint, Otter)\nManual transcription support - provides tools to facilitate typing what you hear (e.g. MAXQDA, oTranscribe)\nIllinois Mediaspace - create and edit a transcription of uploaded media.",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#coding",
+    "href": "plan-qda.html#coding",
+    "title": "web",
+    "section": "Coding",
+    "text": "Coding\n\n\n\n\nLabeling segments of the data with a topic, concept, or other descriptor. These codes allow us to look up from the specifics of individuals or cases and look across the data to identify patterns. (Richards, 2021)\nWhile coding is used in many qualitative methods, it is not a required element of every qualitative project. (Coffey, 1996; Saldaña, 2025).\nCoding can be done using analog versions of your data, with ordinary productivity software, or software developed specifically for qualitative data analysis (sometimes called CAQDAS or QDAS).",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#analyzing-coded-data",
+    "href": "plan-qda.html#analyzing-coded-data",
+    "title": "web",
+    "section": "Analyzing coded data",
+    "text": "Analyzing coded data\nOnce you have coded your data, you can use the coded data set to ask further questions about the data and move towards research findings.",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#writing",
+    "href": "plan-qda.html#writing",
+    "title": "web",
+    "section": "Writing",
+    "text": "Writing\nAcross qualitative texts, you’ll find a frequent recommendation to write throughout the process of collecting and analyzing data.\nWriting has you work has several benefits, including:\n\nWriting as thinking: Sometimes writing out an explanation serves as a way of thinking through a challenge or question in a way that just internal pondering cannot.(Keane, 2022; Montgomery & Bailey, 2007)\nWriting as documentation: Have a record of how you analyzed the data and how your interpretation developed will help you write about that process and communicate the quality of your analysis.(Kalpokas & Radivojevic, 2022)\nWriting as kindness to your future self: The version of yourself who writes the paper or dissertation that comes out of this analysis will appreciate having as much previously written information as possible. You may be able to edit and use your memos or other writing in your final product.",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#maxqda-is-provided-for-all-illinois-students-faculty-and-staff",
+    "href": "plan-qda.html#maxqda-is-provided-for-all-illinois-students-faculty-and-staff",
+    "title": "web",
+    "section": "MAXQDA is provided for all Illinois students, faculty, and staff",
+    "text": "MAXQDA is provided for all Illinois students, faculty, and staff",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#taguette-is-easy-to-use-and-free-but-with-fewer-capabilities",
+    "href": "plan-qda.html#taguette-is-easy-to-use-and-free-but-with-fewer-capabilities",
+    "title": "web",
+    "section": "Taguette is easy-to-use and free, but with fewer capabilities",
+    "text": "Taguette is easy-to-use and free, but with fewer capabilities",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#ai",
+    "href": "plan-qda.html#ai",
+    "title": "web",
+    "section": "AI",
+    "text": "AI\nMajor ethical and data security questions for any sensitive or protected data.\nFrom reading lots of example, it seems like LLMs do OK with identifying topics, but can still be prone to hallucination. Identiying themes (that are more based on context) is less effective.\nEffective results require extensive prompting.",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
   }
 ]
