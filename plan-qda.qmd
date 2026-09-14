@@ -1,7 +1,7 @@
 ---
 format:
   revealjs: 
-    theme: [simple, style.scss]
+    theme: [simple, slide-style.scss]
     footer: "Jess Hagman | Planning QDA Workshop Fall 26 | [go.illinois.edu/planqda](https://go.illinois.edu/planqda)"
     embed-resources: true
 bibliography: references.bib

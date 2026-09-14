@@ -29,7 +29,7 @@ You can also drag and drop files from your computer's file system into the docum
 If you upload Word or PDF documents that have existing highlighted portions or comments, those will be imported into your MAXQDA project along with the data files.
 
 ::: {#fig-highlight-codes}
-![Example of codes created when uploaded Word or PDF documents with highlights. ](/img/maxqda-highlight-code.png){fig-alt="Example of codes created in code system when highlighted documents are uploaded. The two codes in this example are labeled \"black\" and \"yellow\""}
+![Example of codes created when uploaded Word or PDF documents with highlights.](/img/maxqda-highlight-code.png){fig-alt="Example of codes created in code system when highlighted documents are uploaded. The two codes in this example are labeled \"black\" and \"yellow\""}
 :::
 
 Highlighted sections will be coded with the color of the highlight, with MAXQDA creating a new code labeled with the color name. You can change the name of the color to a descriptive term if you would like.
@@ -38,7 +38,7 @@ Comments will be added and appear in the left side of the document.
 
 # Transcripts with media and time stamps
 
-If you have interview or focus group data
+If you have video or audio of interviews or focus groups, you may want to create transcripts that are linked to the media file via time stamps.
 
 ## Transcribing in MAXQDA
 
@@ -51,3 +51,5 @@ If you have interview or focus group data
 # Survey Data
 
 MAXQDA can be used to analyze survey data
+
+<embed src="https://jesshagman.github.io/web/plan-qda.html#/planning-qualitative-data-analysis" width="100%">
