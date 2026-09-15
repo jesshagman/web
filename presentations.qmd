@@ -1,5 +1,6 @@
 ---
 title: "Recent Presentations"
+draft: true
 ---
 
 ## 2026
@@ -12,6 +13,4 @@ Workshop: Navigating the Space Between Method and Technology with Qualitative Re
 RDAP Annual Conference
 :::
 
-::: pres
-![](img/research_process_transparent.png){.pres-thumb}
-:::
+# 2025

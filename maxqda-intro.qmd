@@ -1,0 +1,169 @@
+---
+format:
+  revealjs: 
+    theme: [simple, slide-style.scss]
+    embed-resources: true
+bibliography: references.bib
+csl: apa.csl
+---
+
+# Introduction to MAXQDA {footer="false"}
+
+Jess Hagman \| jhagman\@illinois.edu \| Consultations: [go.illinois.edu/hagman](https://go.illinois.edu/hagman)
+
+More workshops and additional QDA resources: [go.illinois.edu/qda](https://go.illinois.edu/qda "QDA Resources Research Guide")
+
+# What this Workshop Covers
+
+Because MAXQDA is a complex program, I teach its use across three workshops. This workshop is intended for those without any previous experience using MAXQDA and covers:
+
+- How to get access to MAXQDA using the license provided by UIUC
+- Creating a new project and storing your project data files
+- Adding data to your project file
+- Creating codes and applying codes to text data
+- Working on a MAXQDA project with other researchers.
+
+# Accessing MAXQDA via the Illinois license
+
+This section demonstrates how to use MAXQDA with the license provided by the University of Illinois Urbana-Champaign for current students, faculty, and staff.
+
+The Illinois license is the [Analytics Pro version](https://www.maxqda.com/products/maxqda-analytics-pro), which includes statistical analysis features, with the [Premium AI-Assist Add-on](https://www.maxqda.com/products/ai-assist).
+
+For more on the license available at Illinois, please [see Illinois Computes' information page](https://www.maxqda.com/products/maxqda-analytics-pro).
+
+::: callout-important
+## Access off-campus requires using the VPN
+
+If you are working off-campus, you will need to be connected to the campus network via the [Virtual Private Network (VPN)](https://www.techservices.illinois.edu/services/vpn-essentials/). Once you have connected to the VPN, the steps for accessing MAXQDA remain the same.
+
+Technology Services offers [instructions for setting up the VPN.](https://answers.uillinois.edu/illinois/98773)
+:::
+
+## Downloand and install MAXQDA on your device
+
+If you haven't yet, [download the MAXQDA program](https://www.maxqda.com/download-now) to you Mac or Windows computer. Follow the usual procedures for installing software on your device.
+
+::: callout-tip
+## If you can't install MAXQDA on your own device
+
+If you cannot, or do not want to install the MAXQDA software on your compute, you can use the University's virtual desktop service [Illinois AnyWare](https://www.techservices.illinois.edu/services/illinois-anyware/). This service lets you access a Windows desktop from your own device and use the [software installed on that desktop](https://static.ics.illinois.edu/anyware-software/) without having to add them to your own device.
+:::
+
+## Choose the option for the network license
+
+:::::: columns
+::: {.column width="40%"}
+Open the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen that says Welcome to MAXQDA and then asks you to choose a license option.
+
+Click on the option that says `Connect to your institution's network license`
+:::
+
+:::: {.column width="60%"}
+::: {}
+![MAXQDA opening screen requesting a license choice](img/maxqda-license-options.png){width="325"}
+:::
+::::
+::::::
+
+## Enter license information
+
+::::: columns
+::: {.column width="40%"}
+After you choose to make use of an institutional license, you'll be prompted to enter the license details.
+
+1.  In the first box asks for your institution's server address. Enter: `maxqda.webstore.illinois.edu`
+2.  Set the Port to `21990`
+3.  Make sure the radio button for the last box is checked and enter the license name `MAXQDA` (all caps included).
+4.  Click `Connect`.
+:::
+
+::: {.column width="60%"}
+![Entering Illinois license information](/img/maxqda-network-license.png){width="340"}
+:::
+:::::
+
+# Linking a MAXQDA Account (Optional)
+
+In addition to the network license, you may choose to log into the MAXQDA program with a (free) MAXQDA account. This account is not connected to your Illinois license, and you can use any email you prefer.
+
+You only need to connect a license if you want to use the AI-Assist features (which is included in the Illinois license) or any of the other add-on features that can be purchased from MAXQDA, including automated transcription and Team Cloud tools.
+
+To link a MAXQDA account:
+
+1.  Create an account [on the MAXQDA website](https://account.maxqda.com/register).
+2.  Look for the `Sign In` option in the upper right corner of the program.
+3.  Enter your account details.
+
+# Set Interface Language (Optional)
+
+MAXQDA's interface is available in English as well as [12-additional languages](https://www.maxqda.com/help/the-workspace/general-preferences).
+
+Use `MAXQDA > Preferences` to open the preferences pane. Choose `Language` from the list of options on the left. Choose your preferred interface language from the drop down menu.
+
+![MAXQDA preferences screen showing the option to choose the interface language.](/img/maxqda-set-language.png){fig-alt="MAXQDA preferences screen on the language settings. The English option is set. The drop down can be used to choose another language. "}
+
+# Creating a New MAXQDA Project
+
+:::::: columns
+::: {.column width="40%"}
+When you first open MAXQDA, you'll be prompted tho choose what project file you want to work with.
+
+The three options are to:
+
+1.  Create an entirely new project.
+2.  Open an existing MAXQDA project.
+3.  Create a file that contains example data for exploring MAXQDA features.
+:::
+
+:::: {.column width="60%"}
+::: {}
+![The opening screen of MAXQDA where you can (1) create a new project (2) open an existing project or (3) open a file with example data.](/img/maxqda-open-screen.png)
+:::
+::::
+::::::
+
+## Choose a project location
+
+After you choose to create a new project, you'll be prompted to choose where you want the project file to be stored.
+
+MAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).
+
+If your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.
+
+::: callout-tip
+## Managing project files
+
+I recommend that you make a copy of your project each time you work with it and save the new file with a date or other distinguishing feature. This saves previous working copies in case you have problems with the new file or want to return to previous versions of the data.
+
+Example file naming convention: 2026-09-16-Project.mqda.
+:::
+
+## Where does MAXQDA store project data?
+
+You choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.
+
+::: callout-caution
+## Follow data security and privacy requirements for your project
+
+If you are working with [high risk, sensitive, or internal data](https://www.techservices.illinois.edu/cybersecurity/data-classification/), you must consider your data security requirements when choosing where to store your MAXQDA project data.
+:::
+
+## External files
+
+::::: columns
+::: {.column width="40%"}
+MAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.[^1]
+
+Open `MAXQDA > Preferences` to change the external file settings.
+
+1.  By default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.
+
+2.  You can change the location for external files by clicking on the `...` button and then choosing a new location on your device.
+:::
+
+::: {.column width="60%"}
+![Open the MAXQDA preferences to set the size for files to be saved external storage and the external file location](/img/maxqda-external.png)
+:::
+:::::
+
+[^1]: [MAXQDA Manual: External Files](https://www.maxqda.com/help/import/external-files)

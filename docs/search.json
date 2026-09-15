@@ -388,5 +388,82 @@
       "Home",
       "Recent Presentations"
     ]
+  },
+  {
+    "objectID": "maxqda-intro.html#downloand-and-install-maxqda-on-your-device",
+    "href": "maxqda-intro.html#downloand-and-install-maxqda-on-your-device",
+    "title": "web",
+    "section": "Downloand and install MAXQDA on your device",
+    "text": "Downloand and install MAXQDA on your device\nIf you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\n\n\n\nIf you can’t install MAXQDA on your own device\n\n\nIf you cannot, or do not want to install the MAXQDA software on your compute, you can use the University’s virtual desktop service Illinois AnyWare. This service lets you access a Windows desktop from your own device and use the software installed on that desktop without having to add them to your own device.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#enter-illinois-license-information",
+    "href": "maxqda-intro.html#enter-illinois-license-information",
+    "title": "web",
+    "section": "Enter Illinois license information",
+    "text": "Enter Illinois license information\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\nMAXQDA openning screen requesting a license choice",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#choose-the-option-for-the-network-license",
+    "href": "maxqda-intro.html#choose-the-option-for-the-network-license",
+    "title": "web",
+    "section": "Choose the option for the network license",
+    "text": "Choose the option for the network license\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\n\nMAXQDA opening screen requesting a license choice",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#enter-license-information",
+    "href": "maxqda-intro.html#enter-license-information",
+    "title": "web",
+    "section": "Enter license information",
+    "text": "Enter license information\n\n\nAfter you choose to make use of an institutional license, you’ll be prompted to enter the license details.\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect.\n\n\n\n\n\nEntering Illinois license information",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#choose-a-project-location",
+    "href": "maxqda-intro.html#choose-a-project-location",
+    "title": "web",
+    "section": "Choose a project location",
+    "text": "Choose a project location\nAfter you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\n\nManaging project files\n\n\nI recommend that you make a copy of your project each time you work with it and save the new file with a date or other distinguishing feature. This saves previous working copies in case you have problems with the new file or want to return to previous versions of the data.\nExample file naming convention: 2026-09-16-Project.mqda.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#where-does-maxqda-store-project-data",
+    "href": "maxqda-intro.html#where-does-maxqda-store-project-data",
+    "title": "web",
+    "section": "Where does MAXQDA store project data?",
+    "text": "Where does MAXQDA store project data?\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\n\n\n\n\n\n\nFollow data security and privacy requirements for your project\n\n\nIf you are working with high risk, sensitive, or internal data, you must consider your data security requirements when choosing where to store your MAXQDA project data.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#external-files",
+    "href": "maxqda-intro.html#external-files",
+    "title": "web",
+    "section": "External files",
+    "text": "External files\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.1\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\n\n\nMAXQDA Manual: External Files",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
   }
 ]
