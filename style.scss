@@ -46,6 +46,20 @@ $h2-font-size: 1.8rem;
 
 .nav {
     font-size: larger;
-    color: $plum;
-    
+    color: $plum;   
+}
+
+.pres {
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: $dk-green;
+    padding: 6px;
+    width: 40%;
+}
+
+.pres-thumb {
+    padding: 3px;
+    border-radius: 6px;
+    width: 90%;
 }

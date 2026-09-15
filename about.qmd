@@ -1,5 +1,37 @@
 ---
 title: "About"
+about: 
+    template: trestles
+    image: /img/hagman2026.jpeg
+    image-shape: round
+    links: 
+        -   icon: bluesky
+            text: Bluesky
+            href: https://bsky.app/profile/hagman.bsky.social
 ---
 
-About this site
+Jess Hagman is the Social Sciences Research Librarian and Associate Professor at the University of Illinois Urbana-Champaign. Her research interests include academic library services for graduate students, qualitative research methods, and research methods trainer.
+
+## Education
+
+### Ohio University \| Athens, OH 
+
+MA in Organizational Communication, 2015
+
+### University of Wisconsin-Madison \| Madison, WI 
+
+MA in Library & Information Science, 2008
+
+BA in History & Sociology, 2006
+
+## Experience
+
+**University of Illinois Urbana-Champaign**
+
+Social Sciences Research Librarian and Assistant Professor, 2019-2026
+
+**Ohio University**
+
+Social Media Coordinator & Subject Librarian for Scripps College, 2014-2019
+
+Reference & Instruction Librarian, 2008-2014

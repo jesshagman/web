@@ -1,0 +1,17 @@
+---
+title: "Recent Presentations"
+---
+
+## 2026
+
+::: pres
+[![](img/rdap.png){.pres-thumb}](https://www.ideals.illinois.edu/items/140322)
+
+Workshop: Navigating the Space Between Method and Technology with Qualitative Researchers
+
+RDAP Annual Conference
+:::
+
+::: pres
+![](img/research_process_transparent.png){.pres-thumb}
+:::

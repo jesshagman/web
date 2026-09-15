@@ -199,7 +199,7 @@
     "href": "index.html",
     "title": "Jess Hagman",
     "section": "",
-    "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign. This site is where i share the materials that I’ve created for teaching qualitative data analysis and other public materials from my work."
+    "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign. I use this website to share workshop materials and presentations I’ve offered."
   },
   {
     "objectID": "plan-qda.html#types-of-research-findings-or-outcomes",
@@ -316,7 +316,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site",
+    "text": "Jess Hagman is the Social Sciences Research Librarian and Associate Professor at the University of Illinois Urbana-Champaign. Her research interests include academic library services for graduate students, qualitative research methods, and research methods trainer.",
     "crumbs": [
       "Home",
       "About"
@@ -332,6 +332,61 @@
       "Home",
       "Maxqda",
       "Workshop: Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nOhio University | Athens, OH\nMA in Organizational Communication, 2015\n\n\nUniversity of Wisconsin-Madison | Madison, WI\nMA in Library & Information Science, 2008\nBA in History & Sociology, 2006",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nUniversity of Illinois Urbana-Champaign\nSocial Sciences Research Librarian and Assistant Professor, 2019-2026\nOhio University\nSocial Media Coordinator & Subject Librarian for Scripps College, 2014-2019\nReference & Instruction Librarian, 2008-2014",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Recent Presentations",
+    "section": "",
+    "text": "Workshop: Navigating the Space Between Method and Technology with Qualitative Researchers\nRDAP Annual Conference",
+    "crumbs": [
+      "Home",
+      "Recent Presentations"
+    ]
+  },
+  {
+    "objectID": "presentations.html#skills-lab-best-practices-for-ai-in-qualitative-research",
+    "href": "presentations.html#skills-lab-best-practices-for-ai-in-qualitative-research",
+    "title": "Presentations",
+    "section": "",
+    "text": "Workshop at the American Association for the Advancement of Science (AAAS) Established Program to Stimulate Competitive Research (EPSCoR) Annual Summit. (May 2026). Slides via Illinois IDEALS.",
+    "crumbs": [
+      "Home",
+      "Presentations"
+    ]
+  },
+  {
+    "objectID": "presentations.html#section",
+    "href": "presentations.html#section",
+    "title": "Recent Presentations",
+    "section": "",
+    "text": "Workshop: Navigating the Space Between Method and Technology with Qualitative Researchers\nRDAP Annual Conference",
+    "crumbs": [
+      "Home",
+      "Recent Presentations"
     ]
   }
 ]
