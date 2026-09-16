@@ -1,5 +1,6 @@
 ---
 title: "Add data to your MAXQDA project"
+draft: true
 ---
 
 You can add many different types of data to your MAXQDA project. When you open the Import menu, you'll see a list of options for different data types @fig-import

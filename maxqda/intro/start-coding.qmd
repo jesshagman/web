@@ -1,3 +1,4 @@
 ---
 title: "Start coding in MAXQDA"
+draft: true
 ---

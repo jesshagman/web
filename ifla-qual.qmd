@@ -1,0 +1,47 @@
+---
+format:
+  revealjs: 
+    theme: [simple, style.scss]
+bibliography: references.bib
+draft: true
+csl: apa.csl
+title: "IFLA Presentation"
+author: Jess Hagman
+date: 2026-09-22
+filters: 
+  - cascade
+---
+
+## What do we mean by 'qualitative?'
+
+### Not-numbers
+
+::: quote
+"Qualitative data, in contrast, is about qualities: information that does not involve numbers or numerical data" @guyan2022.
+:::
+
+------------------------------------------------------------------------
+
+### In-depth
+
+::: quote
+"Broadly, qualitative research is generally employed to support a researcher in generating a deep and nuanced understanding of a given phenomenon." [@lester2020, p. 95].
+:::
+
+------------------------------------------------------------------------
+
+### Answers certain types of questions
+
+::: quote
+“Qualitative research is great for addressing “how” questions—rather than “how many”; for understanding the world from the perspective of those studied (i.e., informants); and for examining and articulating processes.” [@pratt2009, p. 856]
+:::
+
+------------------------------------------------------------------------
+
+### Not a thing, actually
+
+::: quote
+In a strict sense, there is no such thing as “qualitative research.” [@small2022, p. 20]
+:::
+
+## Defining "good" qualitative research

@@ -1,5 +1,6 @@
 ---
 title: "Workshop: Introduction to MAXQDA"
+draft: true
 ---
 
 # Welcome

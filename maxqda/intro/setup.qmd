@@ -1,5 +1,6 @@
 ---
 title: "Setting up MAXQDA and Key Terms"
+draft: true
 ---
 
 # Use the Illinois license to access MAXQDA
