@@ -45,6 +45,28 @@
     ]
   },
   {
+    "objectID": "maxqda-intro.html#key-considerations-for-teamwork-in-maxqda",
+    "href": "maxqda-intro.html#key-considerations-for-teamwork-in-maxqda",
+    "title": "web",
+    "section": "Key considerations for Teamwork in MAXQDA",
+    "text": "Key considerations for Teamwork in MAXQDA\n\nAll team members need to be using the same version of MAXQDA for files to import/export or merge correctly.\nIf you intend to measure inter-coder reliability, you must follow the process as described by MAXQDA for this to work correctly. I highly recommend trying a test version of your process with a sample of your data to ensure that you have the correct procedure in place.1\nIf you have a team member without current access to MAXQDA, they can still see the data and analysis work by using the free MAXQDA reader program. Using the reader allows a researcher to see how the data has been coded without making any changes to the data or coding.\n\nMAXQDA Manual: Intercoder Agreement",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#exporting-to-other-qdas-programs",
+    "href": "maxqda-intro.html#exporting-to-other-qdas-programs",
+    "title": "web",
+    "section": "Exporting to other QDAS programs",
+    "text": "Exporting to other QDAS programs\n\nThe REFI-QDA standard allows some interoperability between qualitative data analysis software programs (such as MAXQDA and Atlas.ti).1\nYou could use this option if:\n\nYou have completed analysis in another program that you no longer have access to.\nYou have team members at other institutions without access to MAXQDA.\nYou want to share your data for analysis by other researchers or teams (secondary analysis).\n\n\nMAXQDA Manual: Export and Import REFI-QDA Projects",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
     "objectID": "maxqda-intro.html#choose-a-project-location",
     "href": "maxqda-intro.html#choose-a-project-location",
     "title": "web",

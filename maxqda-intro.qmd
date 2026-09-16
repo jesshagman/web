@@ -17,7 +17,7 @@ More workshops and additional QDA resources: [go.illinois.edu/qda](https://go.il
 
 ::::: columns
 ::: {.column width="50%"}
-If you don't have MAXQDA on your device yet, go to [**https://maxqda.com/download-now** ]{font-size="1.5em"}
+If you don't have MAXQDA on your device yet, go to [**https://maxqda.com/download-now**]{font-size="1.5em"}
 :::
 
 ::: {.column width="50%"}
@@ -123,7 +123,35 @@ Instead you can:
 - Work on the project file in a shared location, ensuring that only one user accesses the project file at a time.
   - This is the easiest option, especially for small teams. The project file is stored an an appropriate location accessible to all team members who then coordinate to work on the file at different times.
 - Import/Export Teamwork data:
-  - If you have
+  - If you have team members doing their own coding and markup *of the same data files*, you can use the Export/Import Teamwork tool to share "document level data"[^1]
+- Merging projects:
+  - This option merges together all data from both project files that are merged into a single project. This option works well for cases where you have team members analyzing separate documents that you want to bring into the same project file.[^2]
+
+[^1]: [MAXQDA Manual: Copy Codings, Memos, Variables etc Into Another Project](https://www.maxqda.com/help/teamwork/transferring-coded-segments-memos-variables-etc-from-one-project-to-another)
+
+[^2]: [MAXQDA Manual: Merge Two MAXQDA Projects](https://www.maxqda.com/help/teamwork/merging-two-maxqda-projects)
+
+## Key considerations for Teamwork in MAXQDA
+
+- All team members need to be using the same version of MAXQDA for files to import/export or merge correctly.
+- If you intend to measure inter-coder reliability, you must follow the process as described by MAXQDA for this to work correctly. I *highly recommend* trying a test version of your process with a sample of your data to ensure that you have the correct procedure in place.[^3]
+- If you have a team member without current access to MAXQDA, they can still see the data and analysis work by using the [free MAXQDA reader program](https://www.maxqda.com/products/maxqda-reader). Using the reader allows a researcher to see how the data has been coded without making any changes to the data or coding.
+
+[^3]: [MAXQDA Manual: Intercoder Agreement](https://www.maxqda.com/help/coding/problem-intercoder-agreement-qualitative-research)
+
+## Exporting to other QDAS programs
+
+- The REFI-QDA standard allows some interoperability between qualitative data analysis software programs (such as MAXQDA and Atlas.ti).[^4]
+
+- You could use this option if:
+
+  - You have completed analysis in another program that you no longer have access to.
+
+  - You have team members at other institutions without access to MAXQDA.
+
+  - You want to share your data for analysis by other researchers or teams (secondary analysis).
+
+[^4]: [MAXQDA Manual: Export and Import REFI-QDA Projects](https://www.maxqda.com/help/report-and-export/export-and-import-refi-qda-projects)
 
 # Creating a New MAXQDA Project
 
@@ -175,7 +203,7 @@ If you are working with [high risk, sensitive, or internal data](https://www.tec
 
 ::::: columns
 ::: {.column width="40%"}
-MAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.[^1]
+MAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.[^5]
 
 Open `MAXQDA > Preferences` to change the external file settings.
 
@@ -189,7 +217,7 @@ Open `MAXQDA > Preferences` to change the external file settings.
 :::
 :::::
 
-[^1]: [MAXQDA Manual: External Files](https://www.maxqda.com/help/import/external-files)
+[^5]: [MAXQDA Manual: External Files](https://www.maxqda.com/help/import/external-files)
 
 # The MAXQDA Interface
 
@@ -203,9 +231,9 @@ You can import many different types of data into your MAXQDA project file. The `
 
 ## Text data, including transcripts without time stamps.
 
-If you have existing transcript files without time stamps or a linked video or audio file, you can upload these to MAXQDA in any of the acceptable text formats.[^2]
+If you have existing transcript files without time stamps or a linked video or audio file, you can upload these to MAXQDA in any of the acceptable text formats.[^6]
 
-[^2]: [MAXQDA Manual: Supported data types](https://www.maxqda.com/help/import/data-types)
+[^6]: [MAXQDA Manual: Supported data types](https://www.maxqda.com/help/import/data-types)
 
 To upload text files:
 
@@ -221,9 +249,9 @@ If you have Word or PDF documents with existing highlighted text or comments, th
 
 ## Transcript data: Linking time stamped transcripts with audio or video files
 
-You can also upload transcripts with time stamps and link them with the recording of conversation.[^3] These transcripts can include the files you get from Zoom or Teams (in the .vtt file format).
+You can also upload transcripts with time stamps and link them with the recording of conversation.[^7] These transcripts can include the files you get from Zoom or Teams (in the .vtt file format).
 
-[^3]: [MAXQDA Manual: Importing Transcripts](https://www.maxqda.com/help/import/transcripts)
+[^7]: [MAXQDA Manual: Importing Transcripts](https://www.maxqda.com/help/import/transcripts)
 
 ::::: columns
 ::: {.column width="40%"}
@@ -258,9 +286,9 @@ To add a time stamp,
 
 ## Transcribing in MAXQDA
 
-If you do not have transcripts, or draft transcripts, you can use the transcription feature in MAXQDA to create or edit a transcript file.[^4]
+If you do not have transcripts, or draft transcripts, you can use the transcription feature in MAXQDA to create or edit a transcript file.[^8]
 
-[^4]: [MAXQDA Manual: Transcription Mode](https://www.maxqda.com/help/transcription-audio-video/transcription-mode)
+[^8]: [MAXQDA Manual: Transcription Mode](https://www.maxqda.com/help/transcription-audio-video/transcription-mode)
 
 ::::: columns
 ::: {.column width="40%"}
@@ -268,7 +296,7 @@ To manually transcribe a media file
 
 1.  Import \> Audio or Video
 2.  Select the video or audio file you want to upload.
-3.  Choose `Import only` from the three options provided. If you choose `Link Transcript` you'll be able to upload an existing transcript, while `Transcribe` opens MAXQDA's auto transcription tool.[^5] This is a paid feature not included in the Illinois license.
+3.  Choose `Import only` from the three options provided. If you choose `Link Transcript` you'll be able to upload an existing transcript, while `Transcribe` opens MAXQDA's auto transcription tool.[^9] This is a paid feature not included in the Illinois license.
 :::
 
 ::: {.column width="60%"}
@@ -276,7 +304,7 @@ To manually transcribe a media file
 :::
 :::::
 
-[^5]: [MAXQDA Manual: Automatic Transcription](https://www.maxqda.com/help/transcription-audio-video/automatic-transcription/transcribe-in-maxqda)
+[^9]: [MAXQDA Manual: Automatic Transcription](https://www.maxqda.com/help/transcription-audio-video/automatic-transcription/transcribe-in-maxqda)
 
 ## Using transcription mode
 
@@ -286,9 +314,9 @@ In the example below, we've uploaded a video file and have transcription mode en
 
 ## Survey data
 
-MAXQDA can be used to analyze survey data with open-ended responses, or any data structured in a spreadsheet format.[^6]
+MAXQDA can be used to analyze survey data with open-ended responses, or any data structured in a spreadsheet format.[^10]
 
-[^6]: [MAXQDA Manual: Survey Data from Excel](https://www.maxqda.com/help/import/survey-data-and-structured-data-from-excel)
+[^10]: [MAXQDA Manual: Survey Data from Excel](https://www.maxqda.com/help/import/survey-data-and-structured-data-from-excel)
 
 ::::: columns
 ::: {.column width="40%"}
@@ -383,7 +411,7 @@ The following is a basic introduction to creating codes in MAXQDA and applying t
 The simplest way to create codes is using the `New Code` icon at the top of the code system. A new window will open where you will enter the name of a code, choose a color for the code, and (optionally) enter a memo.
 :::
 
-::: {.columns width="60%"}
+::: {.column width="60%"}
 ![The new code screen](img/maxqda-new-code.png)
 :::
 :::::
@@ -397,7 +425,7 @@ Once you've created codes, you edit, rearrange, and merge them as needed.
 Most options for managing codes can be accessed by right-clicking on a code. You'll see a list of code options.
 :::
 
-::: {.columns width="60%"}
+::: {.column width="60%"}
 ![Right click on a code to see a full menu of options, including re-naming or changing the color](img/maxqda-code-options.png)
 :::
 :::::
@@ -424,7 +452,7 @@ Alternately, if the code you want to apply already exists, you can select the se
 :::
 
 ::: {.column width="60%"}
-![The options for coding that display when you select a data segment and right click. ](img/maxqda-coding-options.png)
+![The options for coding that display when you select a data segment and right click.](img/maxqda-coding-options.png)
 :::
 :::::
 
@@ -439,7 +467,7 @@ MAXQDA does not show the data you've coded in the code color by default. Instead
 :::
 
 ::: {.column width="60%"}
-![Document display options. Check the Coded segments in code color option to highlight data in the color assigned to the code. ](img/maxqda-display-coded.png)
+![Document display options. Check the Coded segments in code color option to highlight data in the color assigned to the code.](img/maxqda-display-coded.png)
 :::
 :::::
 
