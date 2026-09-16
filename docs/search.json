@@ -460,7 +460,150 @@
     "href": "maxqda-intro.html#external-files",
     "title": "web",
     "section": "External files",
-    "text": "External files\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.1\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\n\n\nMAXQDA Manual: External Files",
+    "text": "External files\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.1\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\nMAXQDA Manual: External Files",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#transcript-data-transcripts-without-time-stamps",
+    "href": "maxqda-intro.html#transcript-data-transcripts-without-time-stamps",
+    "title": "web",
+    "section": "Transcript data: Transcripts without time stamps",
+    "text": "Transcript data: Transcripts without time stamps\nIf you have existing transcript files without time stamps or a linked video or audio file, you can upload these to MAXQDA in any of the acceptable text formats.1\nMAXQDA Manual: Supported data types",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#transcript-data-linking-time-stamped-transcripts-with-audio-or-video-files",
+    "href": "maxqda-intro.html#transcript-data-linking-time-stamped-transcripts-with-audio-or-video-files",
+    "title": "web",
+    "section": "Transcript data: Linking time stamped transcripts with audio or video files",
+    "text": "Transcript data: Linking time stamped transcripts with audio or video files\nYou can also upload transcripts with time stamps and link them with the recording of conversation.1 These transcripts can include the files you get from Zoom or Teams (in the .vtt file format).\n\n\nTo upload and link transcripts and a media file:\n\nImport &gt; Transcripts &gt; Transcripts with Timestampts\nSelect the file you want to upload\nYou’ll be prompted to also upload the audio or video file that goes with the transcript. Click OK\nOnce both files have been uploaded, you will have a text file linked with the media file so you can click on the time stamp to open the recording.\n\n\n\n\n\nAfter uploading a transcript with time stamps, you’ll be prompted to upload the corresponding video file.\n\n\n\nMAXQDA Manual: Importing Transcripts",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#transcribing-in-maxqda",
+    "href": "maxqda-intro.html#transcribing-in-maxqda",
+    "title": "web",
+    "section": "Transcribing in MAXQDA",
+    "text": "Transcribing in MAXQDA\nIf you do not have transcripts, or draft transcripts, you can use the transcription feature in MAXQDA to create or edit a transcript file.1\n\n\nTo manually transcribe a media file\n\nImport &gt; Audio or Video\nSelect the video or audio file you want to upload.\nChoose Import only from the three options provided. If you choose Link Transcript you’ll be able to upload an existing transcript, while Transcribe opens MAXQDA’s auto transcription tool.2 This is a paid feature not included in the Illinois license.\n\n\n\n\n\nOptions after uploading a video or audio file. Select Import only to allow manual transcription.\n\n\n\nMAXQDA Manual: Transcription ModeMAXQDA Manual: Automatic Transcription",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#other-text-files",
+    "href": "maxqda-intro.html#other-text-files",
+    "title": "web",
+    "section": "Other text files",
+    "text": "Other text files",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#survey-data",
+    "href": "maxqda-intro.html#survey-data",
+    "title": "web",
+    "section": "Survey data",
+    "text": "Survey data\nMAXQDA can be used to analyze survey data with open-ended responses, or any data structured in a spreadsheet format.1\n\n\nEach row in the spreadsheet you upload will become a new document, with the columns created as qualitative data you can code, variables, or both.\n\n\n\n\nExample of a survey response uploaded to MAXQDA. Each question has been created as a coded segment.\n\n\n\nMAXQDA Manual: Survey Data from Excel",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#editing-transcripts-with-time-stamps",
+    "href": "maxqda-intro.html#editing-transcripts-with-time-stamps",
+    "title": "web",
+    "section": "Editing transcripts with time stamps",
+    "text": "Editing transcripts with time stamps\nIf you want to edit the transcript after you have uploaded it to MAXQDA, look for the edit/transcribe/view mode toggle in the upper left of the document window.\nIn edit mode, you can change the text of the transcript.\nIn transcribe mode, you can edit the location of the time stamps or add new time stamps.\n\nThis document is in transcript mode, so time stamps can be edited or added.To add a time stamp,\n\nNavigate to the point in the video or audio file where you want to add the time stamp\nPlace the cursor in the place in the transcript where you want to add the time stamp\nClick enter. This will move the transcript text to a new line and add a time stamp icon that you can use to open the media file at that point.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#text-data-including-transcripts-without-time-stamps.",
+    "href": "maxqda-intro.html#text-data-including-transcripts-without-time-stamps.",
+    "title": "web",
+    "section": "Text data, including transcripts without time stamps.",
+    "text": "Text data, including transcripts without time stamps.\nIf you have existing transcript files without time stamps or a linked video or audio file, you can upload these to MAXQDA in any of the acceptable text formats.1\nTo upload text files:\n\nImport &gt; Texts, PDFs, Tables\nSelect the file(s) you want to upload.\nOR drag and drop files from your computer’s file system into the document system window.\n\n\n\n\n\n\n\nHighlights and comments in Word and PDFs will be imported\n\n\nIf you have Word or PDF documents with existing highlighted text or comments, these will be imported to MAXQDA. Highlights are converted to coded segments, with the highlight color becoming a code. Comments will be added to the MAXQDA document as they are in the original document.\n\n\n\nMAXQDA Manual: Supported data types",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#word-and-pdf-documents",
+    "href": "maxqda-intro.html#word-and-pdf-documents",
+    "title": "web",
+    "section": "Word and PDF documents",
+    "text": "Word and PDF documents\nMany data documents will",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#using-transcription-mode",
+    "href": "maxqda-intro.html#using-transcription-mode",
+    "title": "web",
+    "section": "Using transcription mode",
+    "text": "Using transcription mode\nIn the example below, we’ve uploaded a video file and have transcription mode enabled (#1). Play and pause the video and then type the content in the window (#2). Pressing enter will add a new time stamp.\n\nMAXQDA in transcription mode.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#preparing-survey-data-for-upload",
+    "href": "maxqda-intro.html#preparing-survey-data-for-upload",
+    "title": "web",
+    "section": "Preparing survey data for upload",
+    "text": "Preparing survey data for upload\n\n\nTo prepare your Excel file for upload:\n\nEnsure that the first row includes only column headers.\nAdd a column for a document ID (#1). This can be any unique indicator.\n(Optional) Add a column for Document Groups (#2). This will place the document into a group you have identified. I\n\n\n\n\n\nSurvey data prepared for import into MAXQDA",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#upload-survey-data",
+    "href": "maxqda-intro.html#upload-survey-data",
+    "title": "web",
+    "section": "Upload survey data",
+    "text": "Upload survey data\n\n\nTo upload survey data from an Excel file, use:\n\nImport &gt; Survey Data &gt; Import Survey Data from Excel Spreadsheet\nChoose the Excel file you want to upload\nPreview the import - this screen should confirm the number of responses (called cases here)",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#identify-data-types",
+    "href": "maxqda-intro.html#identify-data-types",
+    "title": "web",
+    "section": "Identify data types",
+    "text": "Identify data types\n\n\nYou will need to confirm which of the rows in your spreadsheet should be text that you can code, and which are variables (or both).In the example here, we have 15 questions in the survey. The question labeled #1 is an open ended question and so we’ve checked the box in the Qualitative column.The question labeled #2 is a Likert scale item and a number from 1-5. We’ve identified this as an integer variable in the Quantitative column.\n\n\n\n\nIdentifying data types. #1 is text data we want be able to code and #2 is a numeric variable.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#identify-document-names-and-groups",
+    "href": "maxqda-intro.html#identify-document-names-and-groups",
+    "title": "web",
+    "section": "Identify document names and groups",
+    "text": "Identify document names and groups\n\n\nFinally, we’ll need to tell MAXQDA which row contains the names we want to use for each document and (optionally) which group the document should be placed in.\nIn this case, we’ll use the column ID (#1). If you do not have a column for document names, you can also have MAXQDA create unique case IDs.\nWe also have two document groups in our spreadsheet, A and B. The Document Group column (#2) is used to tell MAXQDA which group each response should be located in.\n\n\n\n\nIdentifying the document names (#1) and document group (#2) for each response in a survey",
     "crumbs": [
       "Home",
       "Introduction to MAXQDA"
