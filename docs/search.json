@@ -1,197 +1,201 @@
 [
   {
-    "objectID": "maxqda/intro/setup.html",
-    "href": "maxqda/intro/setup.html",
-    "title": "Setting up MAXQDA and Key Terms",
+    "objectID": "maxqda/intro/index.html",
+    "href": "maxqda/intro/index.html",
+    "title": "Workshop: Introduction to MAXQDA",
     "section": "",
-    "text": "This section demonstrates how to use MAXQDA with the license provided by the University of Illinois Urbana-Champaign for current students, faculty, and staff.\nIf you’re not with the university, you can access MAXQDA by signing up for a free trial or purchasing your own license.\n\n\nIf you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\n\n\n\nTipUse MAXQDA via Illinois AnyWare if you can’t install on your device\n\n\n\nIf you cannot, or do not want to install the MAXQDA software on your compute, you can use the University’s virtual desktop service Illinois AnyWare. This service lets you access a Windows desktop from your own device and use the software installed on that desktop without having to add them to your own device.\n\n\n\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (Figure 1) that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\nAfter you choose to make use of an institutional license, you’ll be prompted to enter the license details (Figure 2).\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect\n\n\n\n\n\n\n\nLicense information added\n\n\n\n\nFigure 2\n\n\n\n\n\n\n\n\n\nImportantUsing MAXQDA off campus?\n\n\n\nIf you are working off-campus, you will need to be connected to the campus network via the Virtual Private Network (VPN). Once you have connected to the VPN, the steps for accessing MAXQDA remain the same.\nTechnology Services offers instructions for setting up the VPN.\n\n\n\n\n\nIn addition to the network license, you may choose to log into the MAXQDA program with a (free) MAXQDA account. This account is not connected to your Illinois license, and you can use any email you prefer.\nYou only need to connect a license if you want to use the AI-Assist features (which is included in the Illinois license) or any of the other add-on features that can be purchased from MAXQDA, including automated transcription and Team Cloud tools.\nTo link a MAXQDA account:\n\nCreate an account on the MAXQDA website.\nLook for the Sign In option in the upper right corner of the program. (Figure 3 (a))\nEnter your account details. (Figure 1)\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Sign in option (upper right in MAXQDA)\n\n\n\n\n\n\n\n\nEnter your log in details\n\n\n\n\n\n\nFigure 3: Logging in to a MAXQDA account within the program.",
+    "text": "Welcome\nThis workshop is for those new to MAXQDA. It covers:\n\nAccessing the University of Illinois license for MAXQDA (for those at UIUC)\nCreate a project file and setting file locations\nAn overview of the interface and key terms you’ll need to use MAXQDA effectively\nAdding commonly used data types into your MAXQDA project, including interview transcripts, text files, survey data, and media files.\nCreating codes and applying them to text data.\n\n\n\nBefore You Begin\n\nDownload MAXQDA to your Windows or Mac device\nDownload the interview data from",
     "crumbs": [
       "Home",
       "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Setting up MAXQDA and Key Terms"
+      "Workshop: Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/setup.html#downloand-and-install-maxqda-on-your-device",
-    "href": "maxqda/intro/setup.html#downloand-and-install-maxqda-on-your-device",
-    "title": "Setting up MAXQDA and Key Terms",
-    "section": "",
-    "text": "If you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\n\n\n\nTipUse MAXQDA via Illinois AnyWare if you can’t install on your device\n\n\n\nIf you cannot, or do not want to install the MAXQDA software on your compute, you can use the University’s virtual desktop service Illinois AnyWare. This service lets you access a Windows desktop from your own device and use the software installed on that desktop without having to add them to your own device.",
+    "objectID": "maxqda-intro.html#downloand-and-install-maxqda-on-your-device",
+    "href": "maxqda-intro.html#downloand-and-install-maxqda-on-your-device",
+    "title": "web",
+    "section": "Downloand and install MAXQDA on your device",
+    "text": "Downloand and install MAXQDA on your device\nIf you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\n\n\n\nIf you can’t install MAXQDA on your own device\n\n\nIf you cannot, or do not want to install the MAXQDA software on your compute, you can use the University’s virtual desktop service Illinois AnyWare. This service lets you access a Windows desktop from your own device and use the software installed on that desktop without having to add them to your own device.",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Setting up MAXQDA and Key Terms"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/setup.html#set-illinois-license-information",
-    "href": "maxqda/intro/setup.html#set-illinois-license-information",
-    "title": "Setting up MAXQDA and Key Terms",
-    "section": "",
-    "text": "Open the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (Figure 1) that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\n\n\nFigure 1",
+    "objectID": "maxqda-intro.html#choose-the-option-for-the-network-license",
+    "href": "maxqda-intro.html#choose-the-option-for-the-network-license",
+    "title": "web",
+    "section": "Choose the option for the network license",
+    "text": "Choose the option for the network license\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\n\nMAXQDA opening screen requesting a license choice",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Setting up MAXQDA and Key Terms"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/setup.html#enter-illinois-license-information",
-    "href": "maxqda/intro/setup.html#enter-illinois-license-information",
-    "title": "Setting up MAXQDA and Key Terms",
-    "section": "",
-    "text": "After you choose to make use of an institutional license, you’ll be prompted to enter the license details (Figure 2).\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect\n\n\n\n\n\n\n\nLicense information added\n\n\n\n\nFigure 2\n\n\n\n\n\n\n\n\n\nImportantUsing MAXQDA off campus?\n\n\n\nIf you are working off-campus, you will need to be connected to the campus network via the Virtual Private Network (VPN). Once you have connected to the VPN, the steps for accessing MAXQDA remain the same.\nTechnology Services offers instructions for setting up the VPN.",
+    "objectID": "maxqda-intro.html#enter-license-information",
+    "href": "maxqda-intro.html#enter-license-information",
+    "title": "web",
+    "section": "Enter license information",
+    "text": "Enter license information\n\n\nAfter you choose to make use of an institutional license, you’ll be prompted to enter the license details.\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect.\n\n\n\n\n\nEntering Illinois license information",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Setting up MAXQDA and Key Terms"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/setup.html#link-a-maxqda-account-optional",
-    "href": "maxqda/intro/setup.html#link-a-maxqda-account-optional",
-    "title": "Setting up MAXQDA and Key Terms",
-    "section": "",
-    "text": "In addition to the network license, you may choose to log into the MAXQDA program with a (free) MAXQDA account. This account is not connected to your Illinois license, and you can use any email you prefer.\nYou only need to connect a license if you want to use the AI-Assist features (which is included in the Illinois license) or any of the other add-on features that can be purchased from MAXQDA, including automated transcription and Team Cloud tools.\nTo link a MAXQDA account:\n\nCreate an account on the MAXQDA website.\nLook for the Sign In option in the upper right corner of the program. (Figure 3 (a))\nEnter your account details. (Figure 1)\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Sign in option (upper right in MAXQDA)\n\n\n\n\n\n\n\n\nEnter your log in details\n\n\n\n\n\n\nFigure 3: Logging in to a MAXQDA account within the program.",
+    "objectID": "maxqda-intro.html#choose-a-project-location",
+    "href": "maxqda-intro.html#choose-a-project-location",
+    "title": "web",
+    "section": "Choose a project location",
+    "text": "Choose a project location\nAfter you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\n\nManaging project files\n\n\nI recommend that you make a copy of your project each time you work with it and save the new file with a date or other distinguishing feature. This saves previous working copies in case you have problems with the new file or want to return to previous versions of the data.\nExample file naming convention: 2026-09-16-Project.mqda.",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Setting up MAXQDA and Key Terms"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/setup.html#interface-elements",
-    "href": "maxqda/intro/setup.html#interface-elements",
-    "title": "Setting up MAXQDA and Key Terms",
-    "section": "Interface elements",
-    "text": "Interface elements\nOnce you are logged in you and created a new project (see Creating a New Project for more information), you will see the MAXQDA program itself. There are four different windows1 within the program (Figure 5) that you will need to know. MAXQDA uses specific vocabulary terms throughout the software to describe parts of a qualitative project and it will be easier to conduct your own research with a strong grasp of this language.\nThe four windows are:\n\nDocument system: The data files you upload will be stored here.\nCode system: The codes you add to the project will be listed here.\nDocument browser: This window displays the data document that you have selected.\nRetrieved segments: This window displays the data at the intersection of activated documents and codes. See more on activation.\n\n\n\n\n\n\n\nA new project in MAXQDA with all four workspace windows open.\n\n\n\n\nFigure 5",
+    "objectID": "maxqda-intro.html#where-does-maxqda-store-project-data",
+    "href": "maxqda-intro.html#where-does-maxqda-store-project-data",
+    "title": "web",
+    "section": "Where does MAXQDA store project data?",
+    "text": "Where does MAXQDA store project data?\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\n\n\n\n\n\n\nFollow data security and privacy requirements for your project\n\n\nIf you are working with high risk, sensitive, or internal data, you must consider your data security requirements when choosing where to store your MAXQDA project data.",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Setting up MAXQDA and Key Terms"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/setup.html#activation",
-    "href": "maxqda/intro/setup.html#activation",
-    "title": "Setting up MAXQDA and Key Terms",
-    "section": "Activation",
-    "text": "Activation\nMAXQDA uses activation2 to help you focus on a subset of the data at the intersection of the activated codes and data documents. Once you have activated both data and code(s), you will see the matching data in the retrieved segments window.\n\nHow would you use activation to analyze qualitative data?\nFor a set of data with with interviews and teachers about school-family communication, we have coded the interview data with examples of positive communication experiences:\n\nActivate the documents for teachers\nActivate codes related to positive communication\n\nThe retrieved segment window would then show us just the data that meets those two conditions.\nWe might then change the document activation to focus on parents instead.\nBy comparing the two sets of retrieved segments, we can start examining whether there are differences or similarities in how these two groups see positive school-family communication.",
+    "objectID": "maxqda-intro.html#external-files",
+    "href": "maxqda-intro.html#external-files",
+    "title": "web",
+    "section": "External files",
+    "text": "External files\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.1\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\nMAXQDA Manual: External Files",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Setting up MAXQDA and Key Terms"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/setup.html#footnotes",
-    "href": "maxqda/intro/setup.html#footnotes",
-    "title": "Setting up MAXQDA and Key Terms",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\n📖 MAXQDA Manual: The main menu and the four main menus↩︎\n📖 MAXQDA Manual: The principle of segment retrieval↩︎",
+    "objectID": "maxqda-intro.html#text-data-including-transcripts-without-time-stamps.",
+    "href": "maxqda-intro.html#text-data-including-transcripts-without-time-stamps.",
+    "title": "web",
+    "section": "Text data, including transcripts without time stamps.",
+    "text": "Text data, including transcripts without time stamps.\nIf you have existing transcript files without time stamps or a linked video or audio file, you can upload these to MAXQDA in any of the acceptable text formats.1\nTo upload text files:\n\nImport &gt; Texts, PDFs, Tables\nSelect the file(s) you want to upload.\nOR drag and drop files from your computer’s file system into the document system window.\n\n\n\n\n\n\n\nHighlights and comments in Word and PDFs will be imported\n\n\nIf you have Word or PDF documents with existing highlighted text or comments, these will be imported to MAXQDA. Highlights are converted to coded segments, with the highlight color becoming a code. Comments will be added to the MAXQDA document as they are in the original document.\n\n\n\nMAXQDA Manual: Supported data types",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Setting up MAXQDA and Key Terms"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/create-project.html",
-    "href": "maxqda/intro/create-project.html",
-    "title": "Creating a new project in MAXQDA",
-    "section": "",
-    "text": "When you first open MAXQDA, you’ll be prompted tho choose what project file you want to work with.\nThe three options are to:\n\nCreate an entirely new project.\nOpen an existing MAXQDA project.\nCreate a file that contains example data for exploring MAXQDA features.\n\n\n\n\n\n\n\n\n\nThe opening screen of MAXQDA where you can (1) create a new project (2) open an existing project or (3) open a file with example data.\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\nAfter you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\n\n\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\nYou should choose a storage location that meets any data security and confidentiality protections required by the IRB application or project design.\n\n\n\n\n\n\nWarningSaving to external or cloud storage?\n\n\n\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.\n\n\n\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\n\nFigure 2\n\n\n\n\n\n\nNext: Adding data to your project file",
+    "objectID": "maxqda-intro.html#transcript-data-linking-time-stamped-transcripts-with-audio-or-video-files",
+    "href": "maxqda-intro.html#transcript-data-linking-time-stamped-transcripts-with-audio-or-video-files",
+    "title": "web",
+    "section": "Transcript data: Linking time stamped transcripts with audio or video files",
+    "text": "Transcript data: Linking time stamped transcripts with audio or video files\nYou can also upload transcripts with time stamps and link them with the recording of conversation.1 These transcripts can include the files you get from Zoom or Teams (in the .vtt file format).\n\n\nTo upload and link transcripts and a media file:\n\nImport &gt; Transcripts &gt; Transcripts with Timestampts\nSelect the file you want to upload\nYou’ll be prompted to also upload the audio or video file that goes with the transcript. Click OK\nOnce both files have been uploaded, you will have a text file linked with the media file so you can click on the time stamp to open the recording.\n\n\n\n\n\nAfter uploading a transcript with time stamps, you’ll be prompted to upload the corresponding video file.\n\n\n\nMAXQDA Manual: Importing Transcripts",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Creating a new project in MAXQDA"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/create-project.html#choose-a-project-location",
-    "href": "maxqda/intro/create-project.html#choose-a-project-location",
-    "title": "Creating a new project in MAXQDA",
-    "section": "",
-    "text": "After you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\n\n\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\nYou should choose a storage location that meets any data security and confidentiality protections required by the IRB application or project design.\n\n\n\n\n\n\nWarningSaving to external or cloud storage?\n\n\n\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.\n\n\n\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\n\nFigure 2\n\n\n\n\n\n\nNext: Adding data to your project file",
+    "objectID": "maxqda-intro.html#editing-transcripts-with-time-stamps",
+    "href": "maxqda-intro.html#editing-transcripts-with-time-stamps",
+    "title": "web",
+    "section": "Editing transcripts with time stamps",
+    "text": "Editing transcripts with time stamps\nIf you want to edit the transcript after you have uploaded it to MAXQDA, look for the edit/transcribe/view mode toggle in the upper left of the document window.\nIn edit mode, you can change the text of the transcript.\nIn transcribe mode, you can edit the location of the time stamps or add new time stamps.\n\nThis document is in transcript mode, so time stamps can be edited or added.To add a time stamp,\n\nNavigate to the point in the video or audio file where you want to add the time stamp\nPlace the cursor in the place in the transcript where you want to add the time stamp\nClick enter. This will move the transcript text to a new line and add a time stamp icon that you can use to open the media file at that point.",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Creating a new project in MAXQDA"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/add-data.html",
-    "href": "maxqda/intro/add-data.html",
-    "title": "Add data to your MAXQDA project",
-    "section": "",
-    "text": "You can add many different types of data to your MAXQDA project. When you open the Import menu, you’ll see a list of options for different data types Figure 1",
-    "crumbs": [
-      "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Add data to your MAXQDA project"
-    ]
-  },
-  {
-    "objectID": "maxqda/intro/add-data.html#existing-highlights-or-comments-in-word-or-pdf-documents",
-    "href": "maxqda/intro/add-data.html#existing-highlights-or-comments-in-word-or-pdf-documents",
-    "title": "Add data to your MAXQDA project",
-    "section": "Existing highlights or comments in Word or PDF documents",
-    "text": "Existing highlights or comments in Word or PDF documents\nIf you upload Word or PDF documents that have existing highlighted portions or comments, those will be imported into your MAXQDA project along with the data files.\n\n\n\n\n\n\nExample of codes created when uploaded Word or PDF documents with highlights.\n\n\n\n\nFigure 3\n\n\n\nHighlighted sections will be coded with the color of the highlight, with MAXQDA creating a new code labeled with the color name. You can change the name of the color to a descriptive term if you would like.\nComments will be added and appear in the left side of the document.",
-    "crumbs": [
-      "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Add data to your MAXQDA project"
-    ]
-  },
-  {
-    "objectID": "maxqda/intro/add-data.html#transcribing-in-maxqda",
-    "href": "maxqda/intro/add-data.html#transcribing-in-maxqda",
-    "title": "Add data to your MAXQDA project",
+    "objectID": "maxqda-intro.html#transcribing-in-maxqda",
+    "href": "maxqda-intro.html#transcribing-in-maxqda",
+    "title": "web",
     "section": "Transcribing in MAXQDA",
-    "text": "Transcribing in MAXQDA",
+    "text": "Transcribing in MAXQDA\nIf you do not have transcripts, or draft transcripts, you can use the transcription feature in MAXQDA to create or edit a transcript file.1\n\n\nTo manually transcribe a media file\n\nImport &gt; Audio or Video\nSelect the video or audio file you want to upload.\nChoose Import only from the three options provided. If you choose Link Transcript you’ll be able to upload an existing transcript, while Transcribe opens MAXQDA’s auto transcription tool.2 This is a paid feature not included in the Illinois license.\n\n\n\n\n\nOptions after uploading a video or audio file. Select Import only to allow manual transcription.\n\n\n\nMAXQDA Manual: Transcription ModeMAXQDA Manual: Automatic Transcription",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Add data to your MAXQDA project"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/add-data.html#images",
-    "href": "maxqda/intro/add-data.html#images",
-    "title": "Add data to your MAXQDA project",
-    "section": "Images",
-    "text": "Images",
+    "objectID": "maxqda-intro.html#using-transcription-mode",
+    "href": "maxqda-intro.html#using-transcription-mode",
+    "title": "web",
+    "section": "Using transcription mode",
+    "text": "Using transcription mode\nIn the example below, we’ve uploaded a video file and have transcription mode enabled (#1). Play and pause the video and then type the content in the window (#2). Pressing enter will add a new time stamp.\n\nMAXQDA in transcription mode.",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Add data to your MAXQDA project"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda/intro/add-data.html#audio-or-video",
-    "href": "maxqda/intro/add-data.html#audio-or-video",
-    "title": "Add data to your MAXQDA project",
-    "section": "Audio or video",
-    "text": "Audio or video",
+    "objectID": "maxqda-intro.html#survey-data",
+    "href": "maxqda-intro.html#survey-data",
+    "title": "web",
+    "section": "Survey data",
+    "text": "Survey data\nMAXQDA can be used to analyze survey data with open-ended responses, or any data structured in a spreadsheet format.1\n\n\nEach row in the spreadsheet you upload will become a new document, with the columns created as qualitative data you can code, variables, or both.\n\n\n\n\nExample of a survey response uploaded to MAXQDA. Each question has been created as a coded segment.\n\n\n\nMAXQDA Manual: Survey Data from Excel",
     "crumbs": [
       "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA",
-      "Add data to your MAXQDA project"
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#creating-codes",
+    "href": "maxqda-intro.html#creating-codes",
+    "title": "web",
+    "section": "Creating codes",
+    "text": "Creating codes\n\n\nThe simplest way to create codes is using the New Code icon at the top of the code system. A new window will open where you will enter the name of a code, choose a color for the code, and (optionally) enter a memo.\n\n\n\n\nThe new code screen",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#editing-codes",
+    "href": "maxqda-intro.html#editing-codes",
+    "title": "web",
+    "section": "Editing codes",
+    "text": "Editing codes\nOnce you’ve created codes, you edit, rearrange, and merge them as needed.\n\n\nMost options for managing codes can be accessed by right-clicking on a code. You’ll see a list of code options.\n\n\n\n\nRight click on a code to see a full menu of options, including re-naming or changing the color",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#organizing-codes",
+    "href": "maxqda-intro.html#organizing-codes",
+    "title": "web",
+    "section": "Organizing codes",
+    "text": "Organizing codes\nCodes can be organized in a hierarchical system as you create them, or can be organized later. Your code system can be as complex as you need, with as many levels of hierarchy as makes sense for your project.\nTo add a new sub-code: hover over the code and look for the green plus icon.\nTo make a code a sub-code of another, drag the sub-code on top of the parent code.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#applying-codes-to-text-data",
+    "href": "maxqda-intro.html#applying-codes-to-text-data",
+    "title": "web",
+    "section": "Applying codes to text data",
+    "text": "Applying codes to text data\n\n\nWhen you select a segment of the data and right click, you’ll see several options for coding:\n\nWith a new code. If you select this option, you’ll be prompted to create the new code.\nIn Vivo: This option will label the data with the text of the segment, creating a new code if one does not already exist.\nWith a recent code: There are three recently applied codes listed here that could be applied.\n\nAlternately, if the code you want to apply already exists, you can select the segment and then click the code in the code system window.\n\n\n\n\nThe options for coding that display when you select a data segment and right click.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#changing-document-display-to-see-codes",
+    "href": "maxqda-intro.html#changing-document-display-to-see-codes",
+    "title": "web",
+    "section": "Changing document display to see codes",
+    "text": "Changing document display to see codes\n\n\nMAXQDA does not show the data you’ve coded in the code color by default. Instead you’ll need to enable the display of coded segments:\n\nLook for the ... in the upper left corner of the document window and click this icon to show the display options. This menu has several options for how the codes are displayed with your data.\nCheck the Coded segments in code color box to show the data in the color assigned to the code.\n\n\n\n\n\nDocument display options. Check the Coded segments in code color option to highlight data in the color assigned to the code.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
     ]
   },
   {
@@ -323,18 +327,6 @@
     ]
   },
   {
-    "objectID": "maxqda/intro/index.html",
-    "href": "maxqda/intro/index.html",
-    "title": "Workshop: Introduction to MAXQDA",
-    "section": "",
-    "text": "Welcome\nThis workshop is for those new to MAXQDA. It covers:\n\nAccessing the University of Illinois license for MAXQDA (for those at UIUC)\nCreate a project file and setting file locations\nAn overview of the interface and key terms you’ll need to use MAXQDA effectively\nAdding commonly used data types into your MAXQDA project, including interview transcripts, text files, survey data, and media files.\nCreating codes and applying them to text data.\n\n\n\nBefore You Begin\n\nDownload MAXQDA to your Windows or Mac device\nDownload the interview data from",
-    "crumbs": [
-      "Home",
-      "Maxqda",
-      "Workshop: Introduction to MAXQDA"
-    ]
-  },
-  {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
@@ -357,256 +349,198 @@
     ]
   },
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Recent Presentations",
+    "objectID": "maxqda/intro/add-data.html",
+    "href": "maxqda/intro/add-data.html",
+    "title": "Add data to your MAXQDA project",
     "section": "",
-    "text": "Workshop: Navigating the Space Between Method and Technology with Qualitative Researchers\nRDAP Annual Conference",
+    "text": "You can add many different types of data to your MAXQDA project. When you open the Import menu, you’ll see a list of options for different data types Figure 1",
     "crumbs": [
       "Home",
-      "Recent Presentations"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Add data to your MAXQDA project"
     ]
   },
   {
-    "objectID": "presentations.html#skills-lab-best-practices-for-ai-in-qualitative-research",
-    "href": "presentations.html#skills-lab-best-practices-for-ai-in-qualitative-research",
-    "title": "Presentations",
-    "section": "",
-    "text": "Workshop at the American Association for the Advancement of Science (AAAS) Established Program to Stimulate Competitive Research (EPSCoR) Annual Summit. (May 2026). Slides via Illinois IDEALS.",
+    "objectID": "maxqda/intro/add-data.html#existing-highlights-or-comments-in-word-or-pdf-documents",
+    "href": "maxqda/intro/add-data.html#existing-highlights-or-comments-in-word-or-pdf-documents",
+    "title": "Add data to your MAXQDA project",
+    "section": "Existing highlights or comments in Word or PDF documents",
+    "text": "Existing highlights or comments in Word or PDF documents\nIf you upload Word or PDF documents that have existing highlighted portions or comments, those will be imported into your MAXQDA project along with the data files.\n\n\n\n\n\n\nExample of codes created when uploaded Word or PDF documents with highlights.\n\n\n\n\nFigure 3\n\n\n\nHighlighted sections will be coded with the color of the highlight, with MAXQDA creating a new code labeled with the color name. You can change the name of the color to a descriptive term if you would like.\nComments will be added and appear in the left side of the document.",
     "crumbs": [
       "Home",
-      "Presentations"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Add data to your MAXQDA project"
     ]
   },
   {
-    "objectID": "presentations.html#section",
-    "href": "presentations.html#section",
-    "title": "Recent Presentations",
-    "section": "",
-    "text": "Workshop: Navigating the Space Between Method and Technology with Qualitative Researchers\nRDAP Annual Conference",
-    "crumbs": [
-      "Home",
-      "Recent Presentations"
-    ]
-  },
-  {
-    "objectID": "maxqda-intro.html#downloand-and-install-maxqda-on-your-device",
-    "href": "maxqda-intro.html#downloand-and-install-maxqda-on-your-device",
-    "title": "web",
-    "section": "Downloand and install MAXQDA on your device",
-    "text": "Downloand and install MAXQDA on your device\nIf you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\n\n\n\nIf you can’t install MAXQDA on your own device\n\n\nIf you cannot, or do not want to install the MAXQDA software on your compute, you can use the University’s virtual desktop service Illinois AnyWare. This service lets you access a Windows desktop from your own device and use the software installed on that desktop without having to add them to your own device.",
-    "crumbs": [
-      "Home",
-      "Introduction to MAXQDA"
-    ]
-  },
-  {
-    "objectID": "maxqda-intro.html#enter-illinois-license-information",
-    "href": "maxqda-intro.html#enter-illinois-license-information",
-    "title": "web",
-    "section": "Enter Illinois license information",
-    "text": "Enter Illinois license information\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\nMAXQDA openning screen requesting a license choice",
-    "crumbs": [
-      "Home",
-      "Introduction to MAXQDA"
-    ]
-  },
-  {
-    "objectID": "maxqda-intro.html#choose-the-option-for-the-network-license",
-    "href": "maxqda-intro.html#choose-the-option-for-the-network-license",
-    "title": "web",
-    "section": "Choose the option for the network license",
-    "text": "Choose the option for the network license\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\n\nMAXQDA opening screen requesting a license choice",
-    "crumbs": [
-      "Home",
-      "Introduction to MAXQDA"
-    ]
-  },
-  {
-    "objectID": "maxqda-intro.html#enter-license-information",
-    "href": "maxqda-intro.html#enter-license-information",
-    "title": "web",
-    "section": "Enter license information",
-    "text": "Enter license information\n\n\nAfter you choose to make use of an institutional license, you’ll be prompted to enter the license details.\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect.\n\n\n\n\n\nEntering Illinois license information",
-    "crumbs": [
-      "Home",
-      "Introduction to MAXQDA"
-    ]
-  },
-  {
-    "objectID": "maxqda-intro.html#choose-a-project-location",
-    "href": "maxqda-intro.html#choose-a-project-location",
-    "title": "web",
-    "section": "Choose a project location",
-    "text": "Choose a project location\nAfter you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\n\nManaging project files\n\n\nI recommend that you make a copy of your project each time you work with it and save the new file with a date or other distinguishing feature. This saves previous working copies in case you have problems with the new file or want to return to previous versions of the data.\nExample file naming convention: 2026-09-16-Project.mqda.",
-    "crumbs": [
-      "Home",
-      "Introduction to MAXQDA"
-    ]
-  },
-  {
-    "objectID": "maxqda-intro.html#where-does-maxqda-store-project-data",
-    "href": "maxqda-intro.html#where-does-maxqda-store-project-data",
-    "title": "web",
-    "section": "Where does MAXQDA store project data?",
-    "text": "Where does MAXQDA store project data?\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\n\n\n\n\n\n\nFollow data security and privacy requirements for your project\n\n\nIf you are working with high risk, sensitive, or internal data, you must consider your data security requirements when choosing where to store your MAXQDA project data.",
-    "crumbs": [
-      "Home",
-      "Introduction to MAXQDA"
-    ]
-  },
-  {
-    "objectID": "maxqda-intro.html#external-files",
-    "href": "maxqda-intro.html#external-files",
-    "title": "web",
-    "section": "External files",
-    "text": "External files\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.1\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\nMAXQDA Manual: External Files",
-    "crumbs": [
-      "Home",
-      "Introduction to MAXQDA"
-    ]
-  },
-  {
-    "objectID": "maxqda-intro.html#transcript-data-transcripts-without-time-stamps",
-    "href": "maxqda-intro.html#transcript-data-transcripts-without-time-stamps",
-    "title": "web",
-    "section": "Transcript data: Transcripts without time stamps",
-    "text": "Transcript data: Transcripts without time stamps\nIf you have existing transcript files without time stamps or a linked video or audio file, you can upload these to MAXQDA in any of the acceptable text formats.1\nMAXQDA Manual: Supported data types",
-    "crumbs": [
-      "Home",
-      "Introduction to MAXQDA"
-    ]
-  },
-  {
-    "objectID": "maxqda-intro.html#transcript-data-linking-time-stamped-transcripts-with-audio-or-video-files",
-    "href": "maxqda-intro.html#transcript-data-linking-time-stamped-transcripts-with-audio-or-video-files",
-    "title": "web",
-    "section": "Transcript data: Linking time stamped transcripts with audio or video files",
-    "text": "Transcript data: Linking time stamped transcripts with audio or video files\nYou can also upload transcripts with time stamps and link them with the recording of conversation.1 These transcripts can include the files you get from Zoom or Teams (in the .vtt file format).\n\n\nTo upload and link transcripts and a media file:\n\nImport &gt; Transcripts &gt; Transcripts with Timestampts\nSelect the file you want to upload\nYou’ll be prompted to also upload the audio or video file that goes with the transcript. Click OK\nOnce both files have been uploaded, you will have a text file linked with the media file so you can click on the time stamp to open the recording.\n\n\n\n\n\nAfter uploading a transcript with time stamps, you’ll be prompted to upload the corresponding video file.\n\n\n\nMAXQDA Manual: Importing Transcripts",
-    "crumbs": [
-      "Home",
-      "Introduction to MAXQDA"
-    ]
-  },
-  {
-    "objectID": "maxqda-intro.html#transcribing-in-maxqda",
-    "href": "maxqda-intro.html#transcribing-in-maxqda",
-    "title": "web",
+    "objectID": "maxqda/intro/add-data.html#transcribing-in-maxqda",
+    "href": "maxqda/intro/add-data.html#transcribing-in-maxqda",
+    "title": "Add data to your MAXQDA project",
     "section": "Transcribing in MAXQDA",
-    "text": "Transcribing in MAXQDA\nIf you do not have transcripts, or draft transcripts, you can use the transcription feature in MAXQDA to create or edit a transcript file.1\n\n\nTo manually transcribe a media file\n\nImport &gt; Audio or Video\nSelect the video or audio file you want to upload.\nChoose Import only from the three options provided. If you choose Link Transcript you’ll be able to upload an existing transcript, while Transcribe opens MAXQDA’s auto transcription tool.2 This is a paid feature not included in the Illinois license.\n\n\n\n\n\nOptions after uploading a video or audio file. Select Import only to allow manual transcription.\n\n\n\nMAXQDA Manual: Transcription ModeMAXQDA Manual: Automatic Transcription",
+    "text": "Transcribing in MAXQDA",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Add data to your MAXQDA project"
     ]
   },
   {
-    "objectID": "maxqda-intro.html#other-text-files",
-    "href": "maxqda-intro.html#other-text-files",
-    "title": "web",
-    "section": "Other text files",
-    "text": "Other text files",
+    "objectID": "maxqda/intro/add-data.html#images",
+    "href": "maxqda/intro/add-data.html#images",
+    "title": "Add data to your MAXQDA project",
+    "section": "Images",
+    "text": "Images",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Add data to your MAXQDA project"
     ]
   },
   {
-    "objectID": "maxqda-intro.html#survey-data",
-    "href": "maxqda-intro.html#survey-data",
-    "title": "web",
-    "section": "Survey data",
-    "text": "Survey data\nMAXQDA can be used to analyze survey data with open-ended responses, or any data structured in a spreadsheet format.1\n\n\nEach row in the spreadsheet you upload will become a new document, with the columns created as qualitative data you can code, variables, or both.\n\n\n\n\nExample of a survey response uploaded to MAXQDA. Each question has been created as a coded segment.\n\n\n\nMAXQDA Manual: Survey Data from Excel",
+    "objectID": "maxqda/intro/add-data.html#audio-or-video",
+    "href": "maxqda/intro/add-data.html#audio-or-video",
+    "title": "Add data to your MAXQDA project",
+    "section": "Audio or video",
+    "text": "Audio or video",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Add data to your MAXQDA project"
     ]
   },
   {
-    "objectID": "maxqda-intro.html#editing-transcripts-with-time-stamps",
-    "href": "maxqda-intro.html#editing-transcripts-with-time-stamps",
-    "title": "web",
-    "section": "Editing transcripts with time stamps",
-    "text": "Editing transcripts with time stamps\nIf you want to edit the transcript after you have uploaded it to MAXQDA, look for the edit/transcribe/view mode toggle in the upper left of the document window.\nIn edit mode, you can change the text of the transcript.\nIn transcribe mode, you can edit the location of the time stamps or add new time stamps.\n\nThis document is in transcript mode, so time stamps can be edited or added.To add a time stamp,\n\nNavigate to the point in the video or audio file where you want to add the time stamp\nPlace the cursor in the place in the transcript where you want to add the time stamp\nClick enter. This will move the transcript text to a new line and add a time stamp icon that you can use to open the media file at that point.",
+    "objectID": "maxqda/intro/create-project.html",
+    "href": "maxqda/intro/create-project.html",
+    "title": "Creating a new project in MAXQDA",
+    "section": "",
+    "text": "When you first open MAXQDA, you’ll be prompted tho choose what project file you want to work with.\nThe three options are to:\n\nCreate an entirely new project.\nOpen an existing MAXQDA project.\nCreate a file that contains example data for exploring MAXQDA features.\n\n\n\n\n\n\n\n\n\nThe opening screen of MAXQDA where you can (1) create a new project (2) open an existing project or (3) open a file with example data.\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\nAfter you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\n\n\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\nYou should choose a storage location that meets any data security and confidentiality protections required by the IRB application or project design.\n\n\n\n\n\n\nWarningSaving to external or cloud storage?\n\n\n\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.\n\n\n\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\n\nFigure 2\n\n\n\n\n\n\nNext: Adding data to your project file",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Creating a new project in MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda-intro.html#text-data-including-transcripts-without-time-stamps.",
-    "href": "maxqda-intro.html#text-data-including-transcripts-without-time-stamps.",
-    "title": "web",
-    "section": "Text data, including transcripts without time stamps.",
-    "text": "Text data, including transcripts without time stamps.\nIf you have existing transcript files without time stamps or a linked video or audio file, you can upload these to MAXQDA in any of the acceptable text formats.1\nTo upload text files:\n\nImport &gt; Texts, PDFs, Tables\nSelect the file(s) you want to upload.\nOR drag and drop files from your computer’s file system into the document system window.\n\n\n\n\n\n\n\nHighlights and comments in Word and PDFs will be imported\n\n\nIf you have Word or PDF documents with existing highlighted text or comments, these will be imported to MAXQDA. Highlights are converted to coded segments, with the highlight color becoming a code. Comments will be added to the MAXQDA document as they are in the original document.\n\n\n\nMAXQDA Manual: Supported data types",
+    "objectID": "maxqda/intro/create-project.html#choose-a-project-location",
+    "href": "maxqda/intro/create-project.html#choose-a-project-location",
+    "title": "Creating a new project in MAXQDA",
+    "section": "",
+    "text": "After you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\n\n\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\nYou should choose a storage location that meets any data security and confidentiality protections required by the IRB application or project design.\n\n\n\n\n\n\nWarningSaving to external or cloud storage?\n\n\n\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.\n\n\n\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\n\nFigure 2\n\n\n\n\n\n\nNext: Adding data to your project file",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Creating a new project in MAXQDA"
     ]
   },
   {
-    "objectID": "maxqda-intro.html#word-and-pdf-documents",
-    "href": "maxqda-intro.html#word-and-pdf-documents",
-    "title": "web",
-    "section": "Word and PDF documents",
-    "text": "Word and PDF documents\nMany data documents will",
+    "objectID": "maxqda/intro/setup.html",
+    "href": "maxqda/intro/setup.html",
+    "title": "Setting up MAXQDA and Key Terms",
+    "section": "",
+    "text": "This section demonstrates how to use MAXQDA with the license provided by the University of Illinois Urbana-Champaign for current students, faculty, and staff.\nIf you’re not with the university, you can access MAXQDA by signing up for a free trial or purchasing your own license.\n\n\nIf you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\n\n\n\nTipUse MAXQDA via Illinois AnyWare if you can’t install on your device\n\n\n\nIf you cannot, or do not want to install the MAXQDA software on your compute, you can use the University’s virtual desktop service Illinois AnyWare. This service lets you access a Windows desktop from your own device and use the software installed on that desktop without having to add them to your own device.\n\n\n\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (Figure 1) that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\nAfter you choose to make use of an institutional license, you’ll be prompted to enter the license details (Figure 2).\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect\n\n\n\n\n\n\n\nLicense information added\n\n\n\n\nFigure 2\n\n\n\n\n\n\n\n\n\nImportantUsing MAXQDA off campus?\n\n\n\nIf you are working off-campus, you will need to be connected to the campus network via the Virtual Private Network (VPN). Once you have connected to the VPN, the steps for accessing MAXQDA remain the same.\nTechnology Services offers instructions for setting up the VPN.\n\n\n\n\n\nIn addition to the network license, you may choose to log into the MAXQDA program with a (free) MAXQDA account. This account is not connected to your Illinois license, and you can use any email you prefer.\nYou only need to connect a license if you want to use the AI-Assist features (which is included in the Illinois license) or any of the other add-on features that can be purchased from MAXQDA, including automated transcription and Team Cloud tools.\nTo link a MAXQDA account:\n\nCreate an account on the MAXQDA website.\nLook for the Sign In option in the upper right corner of the program. (Figure 3 (a))\nEnter your account details. (Figure 1)\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Sign in option (upper right in MAXQDA)\n\n\n\n\n\n\n\n\nEnter your log in details\n\n\n\n\n\n\nFigure 3: Logging in to a MAXQDA account within the program.",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Key Terms"
     ]
   },
   {
-    "objectID": "maxqda-intro.html#using-transcription-mode",
-    "href": "maxqda-intro.html#using-transcription-mode",
-    "title": "web",
-    "section": "Using transcription mode",
-    "text": "Using transcription mode\nIn the example below, we’ve uploaded a video file and have transcription mode enabled (#1). Play and pause the video and then type the content in the window (#2). Pressing enter will add a new time stamp.\n\nMAXQDA in transcription mode.",
+    "objectID": "maxqda/intro/setup.html#downloand-and-install-maxqda-on-your-device",
+    "href": "maxqda/intro/setup.html#downloand-and-install-maxqda-on-your-device",
+    "title": "Setting up MAXQDA and Key Terms",
+    "section": "",
+    "text": "If you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\n\n\n\nTipUse MAXQDA via Illinois AnyWare if you can’t install on your device\n\n\n\nIf you cannot, or do not want to install the MAXQDA software on your compute, you can use the University’s virtual desktop service Illinois AnyWare. This service lets you access a Windows desktop from your own device and use the software installed on that desktop without having to add them to your own device.",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Key Terms"
     ]
   },
   {
-    "objectID": "maxqda-intro.html#preparing-survey-data-for-upload",
-    "href": "maxqda-intro.html#preparing-survey-data-for-upload",
-    "title": "web",
-    "section": "Preparing survey data for upload",
-    "text": "Preparing survey data for upload\n\n\nTo prepare your Excel file for upload:\n\nEnsure that the first row includes only column headers.\nAdd a column for a document ID (#1). This can be any unique indicator.\n(Optional) Add a column for Document Groups (#2). This will place the document into a group you have identified. I\n\n\n\n\n\nSurvey data prepared for import into MAXQDA",
+    "objectID": "maxqda/intro/setup.html#set-illinois-license-information",
+    "href": "maxqda/intro/setup.html#set-illinois-license-information",
+    "title": "Setting up MAXQDA and Key Terms",
+    "section": "",
+    "text": "Open the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen (Figure 1) that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\n\n\nFigure 1",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Key Terms"
     ]
   },
   {
-    "objectID": "maxqda-intro.html#upload-survey-data",
-    "href": "maxqda-intro.html#upload-survey-data",
-    "title": "web",
-    "section": "Upload survey data",
-    "text": "Upload survey data\n\n\nTo upload survey data from an Excel file, use:\n\nImport &gt; Survey Data &gt; Import Survey Data from Excel Spreadsheet\nChoose the Excel file you want to upload\nPreview the import - this screen should confirm the number of responses (called cases here)",
+    "objectID": "maxqda/intro/setup.html#enter-illinois-license-information",
+    "href": "maxqda/intro/setup.html#enter-illinois-license-information",
+    "title": "Setting up MAXQDA and Key Terms",
+    "section": "",
+    "text": "After you choose to make use of an institutional license, you’ll be prompted to enter the license details (Figure 2).\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect\n\n\n\n\n\n\n\nLicense information added\n\n\n\n\nFigure 2\n\n\n\n\n\n\n\n\n\nImportantUsing MAXQDA off campus?\n\n\n\nIf you are working off-campus, you will need to be connected to the campus network via the Virtual Private Network (VPN). Once you have connected to the VPN, the steps for accessing MAXQDA remain the same.\nTechnology Services offers instructions for setting up the VPN.",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Key Terms"
     ]
   },
   {
-    "objectID": "maxqda-intro.html#identify-data-types",
-    "href": "maxqda-intro.html#identify-data-types",
-    "title": "web",
-    "section": "Identify data types",
-    "text": "Identify data types\n\n\nYou will need to confirm which of the rows in your spreadsheet should be text that you can code, and which are variables (or both).In the example here, we have 15 questions in the survey. The question labeled #1 is an open ended question and so we’ve checked the box in the Qualitative column.The question labeled #2 is a Likert scale item and a number from 1-5. We’ve identified this as an integer variable in the Quantitative column.\n\n\n\n\nIdentifying data types. #1 is text data we want be able to code and #2 is a numeric variable.",
+    "objectID": "maxqda/intro/setup.html#link-a-maxqda-account-optional",
+    "href": "maxqda/intro/setup.html#link-a-maxqda-account-optional",
+    "title": "Setting up MAXQDA and Key Terms",
+    "section": "",
+    "text": "In addition to the network license, you may choose to log into the MAXQDA program with a (free) MAXQDA account. This account is not connected to your Illinois license, and you can use any email you prefer.\nYou only need to connect a license if you want to use the AI-Assist features (which is included in the Illinois license) or any of the other add-on features that can be purchased from MAXQDA, including automated transcription and Team Cloud tools.\nTo link a MAXQDA account:\n\nCreate an account on the MAXQDA website.\nLook for the Sign In option in the upper right corner of the program. (Figure 3 (a))\nEnter your account details. (Figure 1)\n\n\n\n\n\n\n\n\n\n\n\n\n(a) Sign in option (upper right in MAXQDA)\n\n\n\n\n\n\n\n\nEnter your log in details\n\n\n\n\n\n\nFigure 3: Logging in to a MAXQDA account within the program.",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Key Terms"
     ]
   },
   {
-    "objectID": "maxqda-intro.html#identify-document-names-and-groups",
-    "href": "maxqda-intro.html#identify-document-names-and-groups",
-    "title": "web",
-    "section": "Identify document names and groups",
-    "text": "Identify document names and groups\n\n\nFinally, we’ll need to tell MAXQDA which row contains the names we want to use for each document and (optionally) which group the document should be placed in.\nIn this case, we’ll use the column ID (#1). If you do not have a column for document names, you can also have MAXQDA create unique case IDs.\nWe also have two document groups in our spreadsheet, A and B. The Document Group column (#2) is used to tell MAXQDA which group each response should be located in.\n\n\n\n\nIdentifying the document names (#1) and document group (#2) for each response in a survey",
+    "objectID": "maxqda/intro/setup.html#interface-elements",
+    "href": "maxqda/intro/setup.html#interface-elements",
+    "title": "Setting up MAXQDA and Key Terms",
+    "section": "Interface elements",
+    "text": "Interface elements\nOnce you are logged in you and created a new project (see Creating a New Project for more information), you will see the MAXQDA program itself. There are four different windows1 within the program (Figure 5) that you will need to know. MAXQDA uses specific vocabulary terms throughout the software to describe parts of a qualitative project and it will be easier to conduct your own research with a strong grasp of this language.\nThe four windows are:\n\nDocument system: The data files you upload will be stored here.\nCode system: The codes you add to the project will be listed here.\nDocument browser: This window displays the data document that you have selected.\nRetrieved segments: This window displays the data at the intersection of activated documents and codes. See more on activation.\n\n\n\n\n\n\n\nA new project in MAXQDA with all four workspace windows open.\n\n\n\n\nFigure 5",
     "crumbs": [
       "Home",
-      "Introduction to MAXQDA"
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Key Terms"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/setup.html#activation",
+    "href": "maxqda/intro/setup.html#activation",
+    "title": "Setting up MAXQDA and Key Terms",
+    "section": "Activation",
+    "text": "Activation\nMAXQDA uses activation2 to help you focus on a subset of the data at the intersection of the activated codes and data documents. Once you have activated both data and code(s), you will see the matching data in the retrieved segments window.\n\nHow would you use activation to analyze qualitative data?\nFor a set of data with with interviews and teachers about school-family communication, we have coded the interview data with examples of positive communication experiences:\n\nActivate the documents for teachers\nActivate codes related to positive communication\n\nThe retrieved segment window would then show us just the data that meets those two conditions.\nWe might then change the document activation to focus on parents instead.\nBy comparing the two sets of retrieved segments, we can start examining whether there are differences or similarities in how these two groups see positive school-family communication.",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Key Terms"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/setup.html#footnotes",
+    "href": "maxqda/intro/setup.html#footnotes",
+    "title": "Setting up MAXQDA and Key Terms",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n📖 MAXQDA Manual: The main menu and the four main menus↩︎\n📖 MAXQDA Manual: The principle of segment retrieval↩︎",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Setting up MAXQDA and Key Terms"
     ]
   }
 ]

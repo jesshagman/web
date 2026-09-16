@@ -13,6 +13,18 @@ Jess Hagman \| jhagman\@illinois.edu \| Consultations: [go.illinois.edu/hagman](
 
 More workshops and additional QDA resources: [go.illinois.edu/qda](https://go.illinois.edu/qda "QDA Resources Research Guide")
 
+# Workshop Prep
+
+::::: columns
+::: {.column width="50%"}
+If you don't have MAXQDA on your device yet, go to [**https://maxqda.com/download-now** ]{font-size="1.5em"}
+:::
+
+::: {.column width="50%"}
+Download files to practice creating a project file at: **https://go.illinois.edu/maxqda-intro-data**
+:::
+:::::
+
 # What this Workshop Covers
 
 Because MAXQDA is a complex program, I teach its use across three workshops. This workshop is intended for those without any previous experience using MAXQDA and covers:
@@ -101,6 +113,17 @@ MAXQDA's interface is available in English as well as [12-additional languages](
 Use `MAXQDA > Preferences` to open the preferences pane. Choose `Language` from the list of options on the left. Choose your preferred interface language from the drop down menu.
 
 ![MAXQDA preferences screen showing the option to choose the interface language.](/img/maxqda-set-language.png){fig-alt="MAXQDA preferences screen on the language settings. The English option is set. The drop down can be used to choose another language. "}
+
+# Working With Other Researchers
+
+Teamwork in MAXQDA is more complex than for many modern software programs, as there is now way for two individuals to work in the same document at the same time (as you would with a Google Doc or online Word document).
+
+Instead you can:
+
+- Work on the project file in a shared location, ensuring that only one user accesses the project file at a time.
+  - This is the easiest option, especially for small teams. The project file is stored an an appropriate location accessible to all team members who then coordinate to work on the file at different times.
+- Import/Export Teamwork data:
+  - If you have
 
 # Creating a New MAXQDA Project
 
@@ -273,11 +296,13 @@ Each row in the spreadsheet you upload will become a new document, with the colu
 :::
 
 ::: {.column width="60%"}
-![Example of a survey response uploaded to MAXQDA. Each question has been created as a coded segment. ](img/maxqda-survey-doc.png)
+![Example of a survey response uploaded to MAXQDA. Each question has been created as a coded segment.](img/maxqda-survey-doc.png)
 :::
 :::::
 
-## Preparing survey data for upload
+------------------------------------------------------------------------
+
+### Preparing survey data for upload
 
 ::::: columns
 ::: {.column width="40%"}
@@ -293,9 +318,11 @@ To prepare your Excel file for upload:
 :::
 :::::
 
-## Upload survey data
+------------------------------------------------------------------------
 
-:::: columns
+### Upload survey data
+
+::::: columns
 ::: {.column width="40%"}
 To upload survey data from an Excel file, use:
 
@@ -303,12 +330,18 @@ To upload survey data from an Excel file, use:
 2.  Choose the Excel file you want to upload
 3.  Preview the import - this screen should confirm the number of responses (called cases here)
 :::
-::::
 
-## Identify data types
+::: {.column width="60%"}
+![Preview of the survey data to be uploaded.](img/maxqda-survey-preview.png)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+### Identify data types
 
 ::::: columns
-::: {.columns width="40%"}
+::: {.column width="40%"}
 You will need to confirm which of the rows in your spreadsheet should be text that you can code, and which are variables (or both).
 
 In the example here, we have 15 questions in the survey. The question labeled #1 is an open ended question and so we've checked the box in the `Qualitative` column.
@@ -321,7 +354,9 @@ The question labeled #2 is a Likert scale item and a number from 1-5. We've iden
 :::
 :::::
 
-## Identify document names and groups
+------------------------------------------------------------------------
+
+### Identify document names and groups
 
 ::::: columns
 ::: {.column width="40%"}
@@ -336,3 +371,76 @@ We also have two document groups in our spreadsheet, A and B. The Document Group
 ![Identifying the document names (#1) and document group (#2) for each response in a survey](img/maxqda-suvey-ids.png)
 :::
 :::::
+
+# Getting Started with Coding
+
+The following is a basic introduction to creating codes in MAXQDA and applying them to text data. For additional coding tools, see the workshop on Coding Qualitative Data in MAXQDA.
+
+## Creating codes
+
+::::: columns
+::: {.column width="40%"}
+The simplest way to create codes is using the `New Code` icon at the top of the code system. A new window will open where you will enter the name of a code, choose a color for the code, and (optionally) enter a memo.
+:::
+
+::: {.columns width="60%"}
+![The new code screen](img/maxqda-new-code.png)
+:::
+:::::
+
+## Editing codes
+
+Once you've created codes, you edit, rearrange, and merge them as needed.
+
+::::: columns
+::: {.column width="40%"}
+Most options for managing codes can be accessed by right-clicking on a code. You'll see a list of code options.
+:::
+
+::: {.columns width="60%"}
+![Right click on a code to see a full menu of options, including re-naming or changing the color](img/maxqda-code-options.png)
+:::
+:::::
+
+## Organizing codes
+
+Codes can be organized in a hierarchical system as you create them, or can be organized later. Your code system can be as complex as you need, with as many levels of hierarchy as makes sense for your project.
+
+To add a new sub-code: hover over the code and look for the green plus icon.
+
+To make a code a sub-code of another, drag the sub-code on top of the parent code.
+
+## Applying codes to text data
+
+::::: columns
+::: {.column width="40%"}
+When you select a segment of the data and right click, you'll see several options for coding:
+
+1.  With a new code. If you select this option, you'll be prompted to create the new code.
+2.  In Vivo: This option will label the data with the text of the segment, creating a new code if one does not already exist.
+3.  With a recent code: There are three recently applied codes listed here that could be applied.
+
+Alternately, if the code you want to apply already exists, you can select the segment and then click the code in the code system window.
+:::
+
+::: {.column width="60%"}
+![The options for coding that display when you select a data segment and right click. ](img/maxqda-coding-options.png)
+:::
+:::::
+
+## Changing document display to see codes
+
+::::: columns
+::: {.column width="40%"}
+MAXQDA does not show the data you've coded in the code color by default. Instead you'll need to enable the display of coded segments:
+
+1.  Look for the `...` in the upper left corner of the document window and click this icon to show the display options. This menu has several options for how the codes are displayed with your data.
+2.  Check the `Coded segments in code color` box to show the data in the color assigned to the code.
+:::
+
+::: {.column width="60%"}
+![Document display options. Check the Coded segments in code color option to highlight data in the color assigned to the code. ](img/maxqda-display-coded.png)
+:::
+:::::
+
+##
