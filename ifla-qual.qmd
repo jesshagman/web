@@ -14,7 +14,7 @@ filters:
 
 ## What do we mean by 'qualitative?'
 
-### Not-numbers
+### The data is not numbers
 
 ::: quote
 "Qualitative data, in contrast, is about qualities: information that does not involve numbers or numerical data" @guyan2022.

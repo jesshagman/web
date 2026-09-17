@@ -1,46 +1,394 @@
 [
   {
-    "objectID": "ifla-qual.html#results",
-    "href": "ifla-qual.html#results",
-    "title": "IFLA Presentation",
-    "section": "Results",
-    "text": "Results\nExperiment A\nObservations for experiment A.",
+    "objectID": "maxqda-intro.html#downloand-and-install-maxqda-on-your-device",
+    "href": "maxqda-intro.html#downloand-and-install-maxqda-on-your-device",
+    "title": "web",
+    "section": "Downloand and install MAXQDA on your device",
+    "text": "Downloand and install MAXQDA on your device\nIf you haven’t yet, download the MAXQDA program to you Mac or Windows computer. Follow the usual procedures for installing software on your device.\n\n\n\n\n\n\nIf you can’t install MAXQDA on your own device\n\n\nIf you cannot, or do not want to install the MAXQDA software on your compute, you can use the University’s virtual desktop service Illinois AnyWare. This service lets you access a Windows desktop from your own device and use the software installed on that desktop without having to add them to your own device.",
     "crumbs": [
       "Home",
-      "IFLA Presentation"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "ifla-qual.html#what-do-we-mean-by-qualitative",
-    "href": "ifla-qual.html#what-do-we-mean-by-qualitative",
-    "title": "IFLA Presentation",
-    "section": "What do we mean by ‘qualitative?’",
-    "text": "What do we mean by ‘qualitative?’\nNot-numbers\n“Qualitative data, in contrast, is about qualities: information that does not involve numbers or numerical data” Guyan (2022).",
+    "objectID": "maxqda-intro.html#choose-the-option-for-the-network-license",
+    "href": "maxqda-intro.html#choose-the-option-for-the-network-license",
+    "title": "web",
+    "section": "Choose the option for the network license",
+    "text": "Choose the option for the network license\n\n\nOpen the program. The first time you open MAXQDA on a new device, you will need to set the license information. You should see a screen that says Welcome to MAXQDA and then asks you to choose a license option.\nClick on the option that says Connect to your institution's network license\n\n\n\n\n\nMAXQDA opening screen requesting a license choice",
     "crumbs": [
       "Home",
-      "IFLA Presentation"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "ifla-qual.html#references",
-    "href": "ifla-qual.html#references",
-    "title": "IFLA Presentation",
-    "section": "What do we mean by ‘qualitative?’",
-    "text": "What do we mean by ‘qualitative?’\nAnswers certain types of questions\n“Qualitative research is great for addressing “how” questions—rather than “how many”; for understanding the world from the perspective of those studied (i.e., informants); and for examining and articulating processes.” (Pratt, 2009, p. 856)\n\n\n\n\nGuyan, K. (2022). Queer data: Using gender, sex and sexuality data for action. Bloomsbury Academic.\n\n\nLester, J. N., Cho, Y., & Lochmiller, C. R. (2020). Learning to do qualitative data analysis: A starting point. Human Resource Development Review, 19(1), 94–106. https://doi.org/10.1177/1534484320903890\n\n\nPratt, M. G. (2009). From the editors: For the lack of a boilerplate: Tips on writing up (and reviewing) qualitative research. Academy of Management Journal, 52(5), 856–862. https://doi.org/10.5465/amj.2009.44632557",
+    "objectID": "maxqda-intro.html#enter-license-information",
+    "href": "maxqda-intro.html#enter-license-information",
+    "title": "web",
+    "section": "Enter license information",
+    "text": "Enter license information\n\n\nAfter you choose to make use of an institutional license, you’ll be prompted to enter the license details.\n\nIn the first box asks for your institution’s server address. Enter: maxqda.webstore.illinois.edu\nSet the Port to 21990\nMake sure the radio button for the last box is checked and enter the license name MAXQDA (all caps included).\nClick Connect.\n\n\n\n\n\nEntering Illinois license information",
     "crumbs": [
       "Home",
-      "IFLA Presentation"
+      "Introduction to MAXQDA"
     ]
   },
   {
-    "objectID": "ifla-qual.html#defining-good-qualitative-research",
-    "href": "ifla-qual.html#defining-good-qualitative-research",
-    "title": "IFLA Presentation",
-    "section": "Defining “good” qualitative research",
-    "text": "Defining “good” qualitative research\n\n\n\n\nGuyan, K. (2022). Queer data: Using gender, sex and sexuality data for action. Bloomsbury Academic.\n\n\nLester, J. N., Cho, Y., & Lochmiller, C. R. (2020). Learning to do qualitative data analysis: A starting point. Human Resource Development Review, 19(1), 94–106. https://doi.org/10.1177/1534484320903890\n\n\nPratt, M. G. (2009). From the editors: For the lack of a boilerplate: Tips on writing up (and reviewing) qualitative research. Academy of Management Journal, 52(5), 856–862. https://doi.org/10.5465/amj.2009.44632557\n\n\nSmall, M. L., & Calarco, J. M. (2022). Qualitative literacy: A guide to evaluating ethnographic and interview research. University of California Press.",
+    "objectID": "maxqda-intro.html#key-considerations-for-teamwork-in-maxqda",
+    "href": "maxqda-intro.html#key-considerations-for-teamwork-in-maxqda",
+    "title": "web",
+    "section": "Key considerations for Teamwork in MAXQDA",
+    "text": "Key considerations for Teamwork in MAXQDA\n\nAll team members need to be using the same version of MAXQDA for files to import/export or merge correctly.\nIf you intend to measure inter-coder reliability, you must follow the process as described by MAXQDA for this to work correctly. I highly recommend trying a test version of your process with a sample of your data to ensure that you have the correct procedure in place.1\nIf you have a team member without current access to MAXQDA, they can still see the data and analysis work by using the free MAXQDA reader program. Using the reader allows a researcher to see how the data has been coded without making any changes to the data or coding.\n\nMAXQDA Manual: Intercoder Agreement",
     "crumbs": [
       "Home",
-      "IFLA Presentation"
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#exporting-to-other-qdas-programs",
+    "href": "maxqda-intro.html#exporting-to-other-qdas-programs",
+    "title": "web",
+    "section": "Exporting to other QDAS programs",
+    "text": "Exporting to other QDAS programs\n\nThe REFI-QDA standard allows some interoperability between qualitative data analysis software programs (such as MAXQDA and Atlas.ti).1\nYou could use this option if:\n\nYou have completed analysis in another program that you no longer have access to.\nYou have team members at other institutions without access to MAXQDA.\nYou want to share your data for analysis by other researchers or teams (secondary analysis).\n\n\nMAXQDA Manual: Export and Import REFI-QDA Projects",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#choose-a-project-location",
+    "href": "maxqda-intro.html#choose-a-project-location",
+    "title": "web",
+    "section": "Choose a project location",
+    "text": "Choose a project location\nAfter you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\n\nManaging project files\n\n\nI recommend that you make a copy of your project each time you work with it and save the new file with a date or other distinguishing feature. This saves previous working copies in case you have problems with the new file or want to return to previous versions of the data.\nExample file naming convention: 2026-09-16-Project.mqda.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#where-does-maxqda-store-project-data",
+    "href": "maxqda-intro.html#where-does-maxqda-store-project-data",
+    "title": "web",
+    "section": "Where does MAXQDA store project data?",
+    "text": "Where does MAXQDA store project data?\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\n\n\n\n\n\n\nFollow data security and privacy requirements for your project\n\n\nIf you are working with high risk, sensitive, or internal data, you must consider your data security requirements when choosing where to store your MAXQDA project data.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#external-files",
+    "href": "maxqda-intro.html#external-files",
+    "title": "web",
+    "section": "External files",
+    "text": "External files\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.1\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\nMAXQDA Manual: External Files",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#text-data-including-transcripts-without-time-stamps.",
+    "href": "maxqda-intro.html#text-data-including-transcripts-without-time-stamps.",
+    "title": "web",
+    "section": "Text data, including transcripts without time stamps.",
+    "text": "Text data, including transcripts without time stamps.\nIf you have existing transcript files without time stamps or a linked video or audio file, you can upload these to MAXQDA in any of the acceptable text formats.1\nTo upload text files:\n\nImport &gt; Texts, PDFs, Tables\nSelect the file(s) you want to upload.\nOR drag and drop files from your computer’s file system into the document system window.\n\n\n\n\n\n\n\nHighlights and comments in Word and PDFs will be imported\n\n\nIf you have Word or PDF documents with existing highlighted text or comments, these will be imported to MAXQDA. Highlights are converted to coded segments, with the highlight color becoming a code. Comments will be added to the MAXQDA document as they are in the original document.\n\n\n\nMAXQDA Manual: Supported data types",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#transcript-data-linking-time-stamped-transcripts-with-audio-or-video-files",
+    "href": "maxqda-intro.html#transcript-data-linking-time-stamped-transcripts-with-audio-or-video-files",
+    "title": "web",
+    "section": "Transcript data: Linking time stamped transcripts with audio or video files",
+    "text": "Transcript data: Linking time stamped transcripts with audio or video files\nYou can also upload transcripts with time stamps and link them with the recording of conversation.1 These transcripts can include the files you get from Zoom or Teams (in the .vtt file format).\n\n\nTo upload and link transcripts and a media file:\n\nImport &gt; Transcripts &gt; Transcripts with Timestampts\nSelect the file you want to upload\nYou’ll be prompted to also upload the audio or video file that goes with the transcript. Click OK\nOnce both files have been uploaded, you will have a text file linked with the media file so you can click on the time stamp to open the recording.\n\n\n\n\n\nAfter uploading a transcript with time stamps, you’ll be prompted to upload the corresponding video file.\n\n\n\nMAXQDA Manual: Importing Transcripts",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#editing-transcripts-with-time-stamps",
+    "href": "maxqda-intro.html#editing-transcripts-with-time-stamps",
+    "title": "web",
+    "section": "Editing transcripts with time stamps",
+    "text": "Editing transcripts with time stamps\nIf you want to edit the transcript after you have uploaded it to MAXQDA, look for the edit/transcribe/view mode toggle in the upper left of the document window.\nIn edit mode, you can change the text of the transcript.\nIn transcribe mode, you can edit the location of the time stamps or add new time stamps.\n\nThis document is in transcript mode, so time stamps can be edited or added.To add a time stamp,\n\nNavigate to the point in the video or audio file where you want to add the time stamp\nPlace the cursor in the place in the transcript where you want to add the time stamp\nClick enter. This will move the transcript text to a new line and add a time stamp icon that you can use to open the media file at that point.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#transcribing-in-maxqda",
+    "href": "maxqda-intro.html#transcribing-in-maxqda",
+    "title": "web",
+    "section": "Transcribing in MAXQDA",
+    "text": "Transcribing in MAXQDA\nIf you do not have transcripts, or draft transcripts, you can use the transcription feature in MAXQDA to create or edit a transcript file.1\n\n\nTo manually transcribe a media file\n\nImport &gt; Audio or Video\nSelect the video or audio file you want to upload.\nChoose Import only from the three options provided. If you choose Link Transcript you’ll be able to upload an existing transcript, while Transcribe opens MAXQDA’s auto transcription tool.2 This is a paid feature not included in the Illinois license.\n\n\n\n\n\nOptions after uploading a video or audio file. Select Import only to allow manual transcription.\n\n\n\nMAXQDA Manual: Transcription ModeMAXQDA Manual: Automatic Transcription",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#using-transcription-mode",
+    "href": "maxqda-intro.html#using-transcription-mode",
+    "title": "web",
+    "section": "Using transcription mode",
+    "text": "Using transcription mode\nIn the example below, we’ve uploaded a video file and have transcription mode enabled (#1). Play and pause the video and then type the content in the window (#2). Pressing enter will add a new time stamp.\n\nMAXQDA in transcription mode.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#survey-data",
+    "href": "maxqda-intro.html#survey-data",
+    "title": "web",
+    "section": "Survey data",
+    "text": "Survey data\nMAXQDA can be used to analyze survey data with open-ended responses, or any data structured in a spreadsheet format.1\n\n\nEach row in the spreadsheet you upload will become a new document, with the columns created as qualitative data you can code, variables, or both.\n\n\n\n\nExample of a survey response uploaded to MAXQDA. Each question has been created as a coded segment.\n\n\n\nMAXQDA Manual: Survey Data from Excel",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#creating-codes",
+    "href": "maxqda-intro.html#creating-codes",
+    "title": "web",
+    "section": "Creating codes",
+    "text": "Creating codes\n\n\nThe simplest way to create codes is using the New Code icon at the top of the code system. A new window will open where you will enter the name of a code, choose a color for the code, and (optionally) enter a memo.\n\n\n\n\nThe new code screen",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#editing-codes",
+    "href": "maxqda-intro.html#editing-codes",
+    "title": "web",
+    "section": "Editing codes",
+    "text": "Editing codes\nOnce you’ve created codes, you edit, rearrange, and merge them as needed.\n\n\nMost options for managing codes can be accessed by right-clicking on a code. You’ll see a list of code options.\n\n\n\n\nRight click on a code to see a full menu of options, including re-naming or changing the color",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#organizing-codes",
+    "href": "maxqda-intro.html#organizing-codes",
+    "title": "web",
+    "section": "Organizing codes",
+    "text": "Organizing codes\nCodes can be organized in a hierarchical system as you create them, or can be organized later. Your code system can be as complex as you need, with as many levels of hierarchy as makes sense for your project.\nTo add a new sub-code: hover over the code and look for the green plus icon.\nTo make a code a sub-code of another, drag the sub-code on top of the parent code.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#applying-codes-to-text-data",
+    "href": "maxqda-intro.html#applying-codes-to-text-data",
+    "title": "web",
+    "section": "Applying codes to text data",
+    "text": "Applying codes to text data\n\n\nWhen you select a segment of the data and right click, you’ll see several options for coding:\n\nWith a new code. If you select this option, you’ll be prompted to create the new code.\nIn Vivo: This option will label the data with the text of the segment, creating a new code if one does not already exist.\nWith a recent code: There are three recently applied codes listed here that could be applied.\n\nAlternately, if the code you want to apply already exists, you can select the segment and then click the code in the code system window.\n\n\n\n\nThe options for coding that display when you select a data segment and right click.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda-intro.html#changing-document-display-to-see-codes",
+    "href": "maxqda-intro.html#changing-document-display-to-see-codes",
+    "title": "web",
+    "section": "Changing document display to see codes",
+    "text": "Changing document display to see codes\n\n\nMAXQDA does not show the data you’ve coded in the code color by default. Instead you’ll need to enable the display of coded segments:\n\nLook for the ... in the upper left corner of the document window and click this icon to show the display options. This menu has several options for how the codes are displayed with your data.\nCheck the Coded segments in code color box to show the data in the color assigned to the code.\n\n\n\n\n\nDocument display options. Check the Coded segments in code color option to highlight data in the color assigned to the code.",
+    "crumbs": [
+      "Home",
+      "Introduction to MAXQDA"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jess Hagman",
+    "section": "",
+    "text": "Hi, I’m Jess Hagman, a librarian at the University of Illinois Urbana-Champaign. I use this website to share workshop materials and presentations I’ve offered."
+  },
+  {
+    "objectID": "index.html#recent-workshops",
+    "href": "index.html#recent-workshops",
+    "title": "Jess Hagman",
+    "section": "Recent workshops",
+    "text": "Recent workshops"
+  },
+  {
+    "objectID": "plan-qda.html#types-of-research-findings-or-outcomes",
+    "href": "plan-qda.html#types-of-research-findings-or-outcomes",
+    "title": "web",
+    "section": "Types of research findings or outcomes",
+    "text": "Types of research findings or outcomes\n\nFrequencies or counts\nTopical surveys\nThematic\nTheories or explanations\nEthnographic description",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#describing-your-methods-and-values",
+    "href": "plan-qda.html#describing-your-methods-and-values",
+    "title": "web",
+    "section": "Describing your methods and values",
+    "text": "Describing your methods and values\n\nQualitative is a big category, with lots of different types of data, analysis strategies, and ideas about what “quality” looks like. (Small & Calarco, 2022). Under this “Big Tent” (Tracy, 2025) of qualitative research, it can be hard for new researchers to find their place and what makes their research credible to readers. (Roulston & Bhattacharya, 2018)\nWhen readers have different ideas about what makes research high quality, you may receive feedback or evaluation that is based on different assumptions about rigor. (Clarke et al., 2025; Moura et al., 2025).\nTo counter this challenge, your paper should explain how you analyzed the data and what you believe makes the analysis credible. (Smagorinsky, 2008; Staller & Krumer-Nevo, 2013)",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#sorting-data-into-groups-or-variables",
+    "href": "plan-qda.html#sorting-data-into-groups-or-variables",
+    "title": "web",
+    "section": "Sorting data into groups or variables",
+    "text": "Sorting data into groups or variables\nThe concept of variables is used more frequently in quantitative research, but we can use this language to think of groups within the data that we want to use for comparison in order to answer our research questions.1\nVariables can be:\n\npre-existing: such as types of data, groups of participants, research sites, or phases of data collection\nor, identified as you analyze and applied to the data for comparisons, such as when you identify a group of participants who have an experience relevant to your research questions.\n\n\n❓ What existing groups or variables are there in your data?\n\nI use variables here because this is the term used in MAXQDA, the QDA software available on campus.",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#transcribing-data-from-media-to-text-formats",
+    "href": "plan-qda.html#transcribing-data-from-media-to-text-formats",
+    "title": "web",
+    "section": "Transcribing data from media to text formats",
+    "text": "Transcribing data from media to text formats\n\n\n\n\n\n\n\n\nThe practice of transforming audio or video content into text for the purposes of analysis.\nPotential tools:\n\nMeeting software transcripts (e.g. Zoom, Teams)\nTranscription software (Trint, Otter)\nManual transcription support - provides tools to facilitate typing what you hear (e.g. MAXQDA, oTranscribe)\nIllinois Mediaspace - create and edit a transcription of uploaded media.",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#coding",
+    "href": "plan-qda.html#coding",
+    "title": "web",
+    "section": "Coding",
+    "text": "Coding\n\n\n\n\nLabeling segments of the data with a topic, concept, or other descriptor. These codes allow us to look up from the specifics of individuals or cases and look across the data to identify patterns. (Richards, 2021)\nWhile coding is used in many qualitative methods, it is not a required element of every qualitative project. (Coffey, 1996; Saldaña, 2025).\nCoding can be done using analog versions of your data, with ordinary productivity software, or software developed specifically for qualitative data analysis (sometimes called CAQDAS or QDAS).",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#analyzing-coded-data",
+    "href": "plan-qda.html#analyzing-coded-data",
+    "title": "web",
+    "section": "Analyzing coded data",
+    "text": "Analyzing coded data\nOnce you have coded your data, you can use the coded data set to ask further questions about the data and move towards research findings.",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#writing",
+    "href": "plan-qda.html#writing",
+    "title": "web",
+    "section": "Writing",
+    "text": "Writing\nAcross qualitative texts, you’ll find a frequent recommendation to write throughout the process of collecting and analyzing data.\nWriting has you work has several benefits, including:\n\nWriting as thinking: Sometimes writing out an explanation serves as a way of thinking through a challenge or question in a way that just internal pondering cannot.(Keane, 2022; Montgomery & Bailey, 2007)\nWriting as documentation: Have a record of how you analyzed the data and how your interpretation developed will help you write about that process and communicate the quality of your analysis.(Kalpokas & Radivojevic, 2022)\nWriting as kindness to your future self: The version of yourself who writes the paper or dissertation that comes out of this analysis will appreciate having as much previously written information as possible. You may be able to edit and use your memos or other writing in your final product.",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#maxqda-is-provided-for-all-illinois-students-faculty-and-staff",
+    "href": "plan-qda.html#maxqda-is-provided-for-all-illinois-students-faculty-and-staff",
+    "title": "web",
+    "section": "MAXQDA is provided for all Illinois students, faculty, and staff",
+    "text": "MAXQDA is provided for all Illinois students, faculty, and staff",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#taguette-is-easy-to-use-and-free-but-with-fewer-capabilities",
+    "href": "plan-qda.html#taguette-is-easy-to-use-and-free-but-with-fewer-capabilities",
+    "title": "web",
+    "section": "Taguette is easy-to-use and free, but with fewer capabilities",
+    "text": "Taguette is easy-to-use and free, but with fewer capabilities",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "plan-qda.html#ai",
+    "href": "plan-qda.html#ai",
+    "title": "web",
+    "section": "AI",
+    "text": "AI\nMajor ethical and data security questions for any sensitive or protected data.\nFrom reading lots of example, it seems like LLMs do OK with identifying topics, but can still be prone to hallucination. Identiying themes (that are more based on context) is less effective.\nEffective results require extensive prompting.",
+    "crumbs": [
+      "Home",
+      "Planning Qualitative Data Analysis"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Jess Hagman is the Social Sciences Research Librarian and Associate Professor at the University of Illinois Urbana-Champaign. Her research interests include academic library services for graduate students, qualitative research methods, and research methods trainer.",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nOhio University | Athens, OH\nMA in Organizational Communication, 2015\n\n\nUniversity of Wisconsin-Madison | Madison, WI\nMA in Library & Information Science, 2008\nBA in History & Sociology, 2006",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nUniversity of Illinois Urbana-Champaign\nSocial Sciences Research Librarian and Assistant Professor, 2019-2026\nOhio University\nSocial Media Coordinator & Subject Librarian for Scripps College, 2014-2019\nReference & Instruction Librarian, 2008-2014",
+    "crumbs": [
+      "Home",
+      "About"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/create-project.html",
+    "href": "maxqda/intro/create-project.html",
+    "title": "Creating a new project in MAXQDA",
+    "section": "",
+    "text": "When you first open MAXQDA, you’ll be prompted tho choose what project file you want to work with.\nThe three options are to:\n\nCreate an entirely new project.\nOpen an existing MAXQDA project.\nCreate a file that contains example data for exploring MAXQDA features.\n\n\n\n\n\n\n\n\n\nThe opening screen of MAXQDA where you can (1) create a new project (2) open an existing project or (3) open a file with example data.\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\nAfter you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\n\n\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\nYou should choose a storage location that meets any data security and confidentiality protections required by the IRB application or project design.\n\n\n\n\n\n\nWarningSaving to external or cloud storage?\n\n\n\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.\n\n\n\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\n\nFigure 2\n\n\n\n\n\n\nNext: Adding data to your project file",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Creating a new project in MAXQDA"
+    ]
+  },
+  {
+    "objectID": "maxqda/intro/create-project.html#choose-a-project-location",
+    "href": "maxqda/intro/create-project.html#choose-a-project-location",
+    "title": "Creating a new project in MAXQDA",
+    "section": "",
+    "text": "After you choose to create a new project, you’ll be prompted to choose where you want the project file to be stored.\n\n\nYou choose where to store your project file and any data you upload to MAXQDA. If you save the project file in a shared folder or cloud service, then the shared settings of those locations will also apply to your data.\nYou should choose a storage location that meets any data security and confidentiality protections required by the IRB application or project design.\n\n\n\n\n\n\nWarningSaving to external or cloud storage?\n\n\n\nMAXQDA recommends that you do not open a project file directly form an external storage system like a networked drive, flash drive, or a cloud storage service (like OneDrive, Box, or Google Drive).\nIf your project and data files are stored in cloud storage, they recommend instead that you make a copy of the file to save directly to your local device. When you have completed your work you can re-upload the project file to the cloud storage.\n\n\n\n\n\nMAXQDA keeps larger data files in a separate folder that allows the data to be accessible for analysis, but without making the project file itself too large. The external file location is the same for all MAXQDA projects, but can be a location you choose.\n\n\n\nOpen MAXQDA &gt; Preferences to change the external file settings.\n\nBy default, any file over 5MB is saved as an external file. You can change this limit to be larger or smaller.\nYou can change the location for external files by clicking on the ... button and then choosing a new location on your device.\n\n\n\n\n\n\n\n\n\nOpen the MAXQDA preferences to set the size for files to be saved external storage and the external file location\n\n\n\n\nFigure 2\n\n\n\n\n\n\nNext: Adding data to your project file",
+    "crumbs": [
+      "Home",
+      "Maxqda",
+      "Workshop: Introduction to MAXQDA",
+      "Creating a new project in MAXQDA"
     ]
   }
 ]
